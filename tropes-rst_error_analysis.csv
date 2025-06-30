@@ -1,0 +1,2682 @@
+id,gold,Martial_ann,Nelleke_ann,text-only,rst,tropes,rst_tropes,trope_name,clean_rst_tree
+2074,none,none,none,none,none,none,none,defend_the_weak,"flowchart TD
+1---N1[It's important to protect the most vulnerable people in society.]
+1(BACKGROUND)---2
+2(MANNER-MEANS)
+2---2_ltxt[That's why we're helping councils that are looking after unaccompanied asylum-seeking children]
+2---2_rtxt[by significantly increasing their funding.]
+0(ENABLEMENT)---1
+0(ENABLEMENT)---3
+3(BACKGROUND)
+3---3_ltxt[Read more:]
+3---3_rtxt[#LocalGov]"
+2075,none,none,none,none,none,none,none,none,"flowchart TD
+1---N1[Immigration Minister @carolinenokes visited the East European Resource Centre in London]
+1(ENABLEMENT)---2
+2(ELABORATION)
+2---2_ltxt[to meet with staff]
+2---2_rtxt[who are helping vulnerable #EUCitizens apply to the EU Settlement Scheme.]
+0(BACKGROUND)---1
+0---M0[@East_Europeans]"
+2076,none,none,none,none,none,none,none,none,"flowchart TD
+0---N0[@itvnews]
+0(BACKGROUND)---1
+1---N1[Anyone crossing the Channel in a small boat is taking a huge risk with their life.]
+1(BACKGROUND)---2
+2(ENABLEMENT)
+2---2_ltxt[We are working closely with the French authorities]
+2---2_rtxt[to tackle this dangerous form of illegal migration.]"
+2077,none,none,none,none,none,none,none,none,"flowchart TD
+1(JOINT)
+1---1_ltxt[.@UKIP is the party of Brexit and beyond.]
+1---1_rtxt[We oppose Remainers of all other parties.]
+0(JOINT)---1
+0---M0[We stand for free speech, free markets, low immigration, protecting the countryside from rampant 'development', and an end to gender confusion lessons in schools.]"
+2078,none,none,none,none,implicit,none,none,none,"flowchart TD
+1---N1[Across the UK, young girls are having their genitals mutilated]
+1(BACKGROUND)---2
+2(BACKGROUND)
+2---2_ltxt[there has been only ONE successful prosecution]
+2---2_rtxt[since FGM was criminalised in 1985.]
+0(ELABORATION)---1
+0---M0[FGM clinics are an admission in the abject failure of mass immigration and multiculturalism.]"
+2079,none,none,none,none,none,none,none,none,"flowchart TD
+0---N0[Are you proud of how our veterans and elderly are being treated]
+0(JOINT)---1
+2(JOINT)
+2---2_ltxt[@sajidjavid]
+2---2_rtxt[or do they not matter?]
+1(JOINT)---2
+1(JOINT)---3
+4(ENABLEMENT)
+4---4_ltxt[Will pension ages be extended further]
+4---4_rtxt[to accommodate this?]
+3(JOINT)---4
+3(JOINT)---5
+5(ELABORATION)
+5---5_ltxt[Will they be Christian refugees]
+5---5_rtxt[that are being slaughtered across the world?]"
+2080,none,none,none,none,none,none,none,none,"flowchart TD
+4(ENABLEMENT)
+4---4_ltxt[This girl left the UK]
+4---4_rtxt[to join ISIS]
+3(JOINT)---4
+3---M3[and says she doesn't regret doing so.]
+2(TEMPORAL)---3
+2(TEMPORAL)---5
+5(EVALUATION)
+5---5_ltxt[Now she wants to come back -]
+5---5_rtxt[absolutely unbelievable.]
+1(JOINT)---2
+1---M1[She has committed treason.]
+0(JOINT)---1
+0(JOINT)---6
+6(JOINT)
+6---6_ltxt[We must protect this country & our people.]
+6---6_rtxt[We must not welcome back terrorists under any circumstances]"
+2081,none,none,none,none,none,none,none,none,"flowchart TD
+1---N1[So is the UK going to stand up for an actual, legitimate refugee in her hour of need]
+1(JOINT)---2
+2(CAUSE)
+2---2_ltxt[or abandon her like they did Asia Bibi]
+2---2_rtxt[because it might upset some Muslims?]
+0(BACKGROUND)---1
+0---M0[Asia Bibi, a Christian Pakistani refugee, is still in Pakistan under threat of being killed by Islamists.]"
+2082,none,none,none,none,none,none,none,none,"flowchart TD
+1(BACKGROUND)
+1---1_ltxt[Sadhana Stokes was 9-years-old]
+1---1_rtxt[when she came to Britain as a refugee.]
+0(BACKGROUND)---1
+0(BACKGROUND)---2
+3(CAUSE)
+3---3_ltxt[Sadhana is standing as The Brexit Party PPC for Charnwood]
+3---3_rtxt[because she finds herself, once again, under the threat of losing democracy.]
+2(BACKGROUND)---3
+2---M2[This is Sadhana's story ̧]"
+2083,none,none,none,none,none,none,none,defend_the_weak,"flowchart TD
+0(EXPLANATION)
+0---0_ltxt[I can also confirm that @DHSCgovuk & NHS are doing everything we can to provide support to refugees arriving in the UK.]
+0---0_rtxt[/3]"
+2084,none,none,none,none,none,none,none,none,"flowchart TD
+1(ENABLEMENT)
+1---1_ltxt[Today I will hold an emergency @G7 meeting]
+1---1_rtxt[to coordinate our response to the crisis in Afghanistan.]
+0(JOINT)---1
+0(JOINT)---2
+2(JOINT)
+2---2_ltxt[I will ask our friends and allies to stand by the Afghan people]
+2---2_rtxt[and step up support for refugees and humanitarian aid.]"
+2085,none,none,none,none,none,none,none,none,"flowchart TD
+0---N0[Today we take a positive step forward in our commitment]
+0(ELABORATION)---1
+2(JOINT)
+2---2_ltxt[to tackle illegal entry, punish people smugglers]
+2---2_rtxt[and safeguard those who are in genuine need of refuge.]
+1(ELABORATION)---2
+1---M1[This is our fair but firm New Plan for Immigration]"
+2086,none,none,none,none,implicit,none,implicit,none,"flowchart TD
+1(ELABORATION)
+1---1_ltxt[€¦ The #BordersBill in the @HouseofCommons today will create a faster and fairer asylum system]
+1---1_rtxt[that supports the most vulnerable in genuine need "" not the people smugglers.]
+0(TEXTUALORGANIZATION)---1
+0---M0[#NewPlanForImmigration']"
+2087,none,none,none,none,none,none,none,none,"flowchart TD
+0---N0[We're taking action to deter dangerous & illegal migration with our #BordersBill:]
+0(BACKGROUND)---1
+1---N1[Breaking the people-smugglers' deadly business model.]
+1(JOINT)---2
+2---N2[s]
+2(JOINT)---3
+3(JOINT)
+3---3_ltxt[Supporting those in genuine need via safe & legal routes.]
+3---3_rtxt[€o€ Making it easier to remove illegal arrivals with no right to be here.''']"
+2088,none,none,none,none,none,none,none,none,"flowchart TD
+1---N1[The Borders Bill will improve access to legal advice]
+1(JOINT)---2
+2(CAUSE)
+2---2_ltxt[and require all reasons for asylum and protection to be put forward for consideration in one go,]
+2---2_rtxt[putting a stop the repeated claims.]
+0(EXPLANATION)---1
+0---M0[#NewPlanForImmigration '""]"
+2089,none,none,none,none,none,none,none,none,"flowchart TD
+1(BACKGROUND)
+1---1_ltxt[This week we have been hosting an important summit at an historic location,]
+1---1_rtxt[as we look to tackle terrorism, illegal migration and online sexual abuse with our international partners.]
+0(BACKGROUND)---1
+0---M0[#G7UK]"
+2090,none,none,none,none,implicit,none,none,none,"flowchart TD
+1(ENABLEMENT)
+1---1_ltxt[Our teams have been working round the clock]
+1---1_rtxt[to bring vulnerable Afghans to safety.]
+0(ELABORATION)---1
+0(ELABORATION)---2
+2---N2[This week we've:]
+2(ATTRIBUTION)---3
+4(MANNER-MEANS)
+4---4_ltxt["",Accelerated the application process]
+4---4_rtxt[by deploying Border Force officers to Afghanistan. "",]
+3(JOINT)---4
+3(JOINT)---5
+5(ELABORATION)
+5---5_ltxt[nnounced a new safe & legal route for Afghan refugees]
+5---5_rtxt[that puts women & children 1st.]"
+2091,none,none,none,none,none,none,none,none,"flowchart TD
+2---N2[We will not abandon people who have been forced to flee their homes]
+2(JOINT)---3
+3(ELABORATION)
+3---3_ltxt[and are now living in terror]
+3---3_rtxt[of what might come next.]
+1(ELABORATION)---2
+1---M1[The Afghan citizens' resettlement scheme will save lives.]
+0(TEXTUALORGANIZATION)---1
+0---M0[''€°']"
+2092,none,none,none,implicit,none,none,none,none,"flowchart TD
+1(BACKGROUND)
+1---1_ltxt[Around half of refugees resettled through government-backed schemes have been children.]
+1---1_rtxt[Global Britain will continue to show global leadership in welcoming those most in need.]
+0(BACKGROUND)---1
+0---M0[#BordersBill]"
+2093,none,none,none,none,none,none,none,none,"flowchart TD
+1---N1[Today we're introducing the landmark into Parliament.]
+1(JOINT)---2
+2---N2[We're taking action]
+2(ENABLEMENT)---3
+3---N3[to deter dangerous and illegal migration to the UK]
+3(JOINT)---4
+5(ELABORATION)
+5---5_ltxt[and create a new asylum system]
+5---5_rtxt[that's fair for those in genuine need.]
+4(ELABORATION)---5
+4---M4[Firm but fair.]
+0(MANNER-MEANS)---1
+0---M0[#NewPlanForImmigration']"
+2094,conclusion,conclusion,conclusion,implicit,implicit,implicit,implicit,defend_the_weak,"flowchart TD
+2---N2[€ Helping refugees whose lives are in danger.]
+2(JOINT)---3
+3(JOINT)
+3---3_ltxt[€ Making sure they properly integrate into our society.]
+3---3_rtxt[€ Ending illegal migration to the UK.]
+1(JOINT)---2
+1---M1[This is the #NewPlanForImmigration']
+0(ELABORATION)---1
+0---M0[#RefugeeWeek]"
+2095,none,none,none,none,none,none,none,liberty_freedom,"flowchart TD
+0---N0[We're going after the people-smuggling gangs at the source.]
+0(JOINT)---1
+1(JOINT)
+1---1_ltxt[To stop them exploiting vulnerable people.]
+1---1_rtxt[To stop them facilitating illegal migration to the UK'''#NewPlanforImmigration']"
+2096,none,none,none,none,none,none,none,liberty_freedom,"flowchart TD
+0---N0[This week I officially opened the @UKHomeOffice-funded Ghana Immigration Taskforce Office.]
+0(ELABORATION)---1
+2---N2[Enabling us to tackle organised immigration crime at source in Ghana,]
+2(JOINT)---3
+3---N3[combat document fraud]
+3(JOINT)---4
+4(ELABORATION)
+4---4_ltxt[& see perpetrators of immigration crime]
+4---4_rtxt[exploiting vulnerable people brought to justice.']
+1(EXPLANATION)---2
+1---M1[''­]"
+2097,none,none,none,none,none,none,none,none,"flowchart TD
+1---N1[People smugglers are ruthless,]
+1(JOINT)---2
+2(JOINT)
+2---2_ltxt[treating migrants as a commodity]
+2---2_rtxt[and they do not care about the safety of those they transport.]
+0(BACKGROUND)---1
+0(BACKGROUND)---3
+3(MANNER-MEANS)
+3---3_ltxt[Working with partners]
+3---3_rtxt[we are determined to do all we can to disrupt and dismantle the organised criminal groups involved.]"
+2098,none,none,none,none,none,none,none,none,"flowchart TD
+1(EVALUATION)
+1---1_ltxt[Criminal people-smuggling gangs are putting lives at risk via dangerous and illegal crossings.]
+1---1_rtxt[Enough is enough.]
+0(BACKGROUND)---1
+0(BACKGROUND)---2
+3(JOINT)
+3---3_ltxt[Our New Plan for Immigration will break their business model]
+3---3_rtxt[and toughen sentences for arranging illegal entry to the UK.'']
+2(TEXTUALORGANIZATION)---3
+2---M2[s]"
+2099,none,none,none,none,none,none,none,none,"flowchart TD
+0(JOINT)
+0---0_ltxt[€ Nearly 9,000 more police € New points-based immigration system € New migration deal with India€ The Domestic Abuse Act € The Domestic Abuse Codeword Scheme € 160k VAWG responses € New Plan for Immigration launched']
+0---0_rtxt[The people's priorities ''']"
+2100,premise,premise,none,none,implicit,none,none,none,"flowchart TD
+0---N0['® Nearly 9,000 more police officers.]
+0(JOINT)---1
+1---N1[€o€ New points-based immigration system.' New migration deal with India.]
+1(JOINT)---2
+2---N2[,The Domestic Abuse Act.' The Domestic Abuse Codeword Scheme.]
+2(JOINT)---3
+3(ELABORATION)
+3---3_ltxt[€ 160k VAWG responses.' New Plan for Immigration launched.]
+3---3_rtxt[We're delivering for the ' public.]"
+2101,none,none,none,none,none,none,none,none,"flowchart TD
+0---N0[I'm continuing to remove these appalling criminals from our country.]
+0(JOINT)---1
+2(ELABORATION)
+2---2_ltxt[And our New Plan for Immigration will make it easier for us to deport foreign criminals]
+2---2_rtxt[who have no right to be here]
+1(ENABLEMENT)---2
+1---M1[so that we can keep people safe.]"
+2102,none,none,none,none,none,none,none,none,"flowchart TD
+0---N0[Since the start of the year, we've deported more than 600 foreign criminals.]
+0(ELABORATION)---1
+1---N1[Our New Plan for Immigration will make it easier to deport foreign criminals]
+1(ELABORATION)---2
+3(ELABORATION)
+3---3_ltxt[who have no right]
+3---3_rtxt[to be in the UK]
+2(JOINT)---3
+2---M2[and keep our citizens safe.]"
+2103,none,none,none,none,implicit,none,none,none,"flowchart TD
+1(JOINT)
+1---1_ltxt[To stop the deaths of those taking dangerous, illegal journeys,]
+1---1_rtxt[we must stop the trade in people that causes them.]
+0(JOINT)---1
+0(JOINT)---2
+2(JOINT)
+2---2_ltxt[Our New Plan for Immigration will save lives]
+2---2_rtxt[and target people smugglers.]"
+2104,none,none,none,none,implicit,none,none,none,empty
+2105,none,none,none,implicit,none,none,none,none,"flowchart TD
+0---N0['Our New Plan for Immigration will deter illegal entry into the UK.]
+0(JOINT)---1
+1(JOINT)
+1---1_ltxt[It will break the business model of people smugglers]
+1---1_rtxt[and protect the lives of those they endanger.]"
+2106,none,none,none,none,none,none,implicit,liberty_freedom,"flowchart TD
+0---N0[Our New Plan for Immigration is based on 3 key aims:]
+0(BACKGROUND)---1
+2(JOINT)
+2---2_ltxt[' To support those in genuine need via safe & legal routes.]
+2---2_rtxt[To break the life-threatening business of criminal people smugglers.'€o€]
+1(JOINT)---2
+1(JOINT)---3
+3(ELABORATION)
+3---3_ltxt[To make it easier to remove illegal arrivals with no right to be here.]
+3---3_rtxt[Firm but fair.]"
+2107,none,none,none,implicit,none,implicit,none,liberty_freedom,"flowchart TD
+0---N0[We are taking action]
+0(ENABLEMENT)---1
+1(JOINT)
+1---1_ltxt[to deter dangerous and illegal migration to the UK]
+1---1_rtxt[and create a new asylum system that's fair for those in genuine need.]"
+2108,none,none,none,implicit,none,none,none,none,"flowchart TD
+1(ATTRIBUTION)
+1---1_ltxt[I'm pleased to announce]
+1---1_rtxt[over 20,000 refugees from Syria have been resettled in the UK since 2015 through our Vulnerable Persons Resettlement Scheme.]
+0(JOINT)---1
+0(JOINT)---2
+2(ENABLEMENT)
+2---2_ltxt[And I can also announce £14m of support]
+2---2_rtxt[to help refugees integrate here in the UK with English language and employment support.]"
+2109,none,none,none,implicit,implicit,none,none,none,"flowchart TD
+0---N0[From my address at the @UNODC's #KyotoCongress on how the UK is tackling crime and protecting victims]
+0(BACKGROUND)---1
+1---N1['''' ̈ Tackling Organised Immigration Crime''-]
+1(JOINT)---2
+2---N2[Protecting victims of modern slavery'""]
+2(JOINT)---3
+3(JOINT)
+3---3_ltxt[Keeping children safe online]
+3---3_rtxt[Stopping fraud and illicit finance]"
+2110,premise,premise,none,implicit,implicit,none,implicit,none,"flowchart TD
+0(JOINT)
+0---0_ltxt[Sam has been offered a new home and job opportunities in the United Kingdom through our Resettlement Scheme.]
+0---0_rtxt[Our #NewPlanForImmigration is committed to resettling vulnerable refugees through safe and legal routes.]"
+2111,premise,premise,premise,implicit,implicit,implicit,implicit,time_will_tell,"flowchart TD
+0(JOINT)
+0---0_ltxt[Our #NewPlanForImmigration prioritises resettling refugees through safe and legal routes.]
+0---0_rtxt[We are committed to helping vulnerable Afghan families rebuild their lives in the UK through the Afghan Citizens Resettlement Scheme.]"
+2112,none,none,none,implicit,none,none,none,none,"flowchart TD
+1---N1[Today we have announced more information on the Afghan Citizens' Resettlement scheme,]
+1(ELABORATION)---2
+2(ENABLEMENT)
+2---2_ltxt[including £20m of funding for local authorities]
+2---2_rtxt[to help resettle Afghan citizens.]
+0(ELABORATION)---1
+0---M0[We are committed to helping vulnerable Afghan families rebuild their lives in the UK.]"
+2113,none,none,none,implicit,none,none,none,none,"flowchart TD
+0(JOINT)
+0---0_ltxt[We will never shirk our obligations to unaccompanied asylum seeking children]
+0---0_rtxt[and to suggest otherwise is false.]"
+2114,conclusion,none,conclusion,implicit,implicit,none,none,none,"flowchart TD
+1(ELABORATION)
+1---1_ltxt[UK law enforcement agencies are on the front line]
+1---1_rtxt[witnessing the human misery created by criminal gangs.]
+0(BACKGROUND)---1
+0---M0[Our landmark #BordersBill will break the business model of the people smugglers endangering migrant lives.]"
+2115,conclusion,none,conclusion,implicit,implicit,none,implicit,none,"flowchart TD
+1---N1[I think they're the real villains in all of this.]
+1(BACKGROUND)---2
+2---N2[s]
+2(SAME-UNIT)---3
+3(ELABORATION)
+3---3_ltxt[law enforcement agencies are on the front line]
+3---3_rtxt[witnessing the human misery created by criminal gangs.]
+0(BACKGROUND)---1
+0---M0[Our #NewPlanForImmigration will break the business model of the people-smugglers endangering migrant lives.]"
+2116,none,none,none,none,none,none,none,none,"flowchart TD
+1(ELABORATION)
+1---1_ltxt[We're proud of the work we've done]
+1---1_rtxt[to help thousands of refugee families like these build new lives in the UK, through government resettlement schemes.]
+0(JOINT)---1
+0---M0[The #BordersBill in the @HouseofCommons today strengthens our commitment to help more of the world's most vulnerable.]"
+2117,conclusion,premise,conclusion,implicit,implicit,implicit,implicit,distrust_experts,"flowchart TD
+0(ELABORATION)
+0---0_ltxt[Responsibility for unaccompanied asylum seeking children will be more fairly distributed across the UK as part of new and vital updates to the National Transfer Scheme.]
+0---0_rtxt[Read more ,]"
+2118,premise,premise,premise,implicit,implicit,implicit,implicit,defend_the_weak,"flowchart TD
+1(CAUSE)
+1---1_ltxt[In the past 10 days, we have deported over 140 foreign criminals,]
+1---1_rtxt[meaning over 700 have been removed from the UK since the start of the year.]
+0(CAUSE)---1
+0(CAUSE)---2
+2---N2[Our New Plan for Immigration will make it easier to deport foreign criminals with no right]
+2(ENABLEMENT)---3
+3(JOINT)
+3---3_ltxt[to be in the UK]
+3---3_rtxt[and keep our citizens safe.]"
+2119,premise,premise,premise,implicit,implicit,implicit,implicit,time_will_tell,"flowchart TD
+0---N0['"" ̈ This week we have conducted a number of raids]
+0(ELABORATION)---1
+1(ELABORATION)
+1---1_ltxt[targeting the criminal gangs]
+1---1_rtxt[putting migrant lives at risk via illegal immigration]"
+2120,conclusion,conclusion,conclusion,none,none,none,none,hidden_motives,"flowchart TD
+1(JOINT)
+1---1_ltxt[Our New Plan for Immigration will crack down on criminal people smugglers]
+1---1_rtxt[while helping those, like Ibrahim and his family, in genuine need.]
+0(EXPLANATION)---1
+0---M0[Have your say at]"
+2121,premise,premise,premise,none,implicit,none,implicit,none,"flowchart TD
+1(ELABORATION)
+1---1_ltxt[The spending in Primark was for asylum seekers]
+1---1_rtxt[who would have not had appropriate clothing when arriving in the UK.]
+0(BACKGROUND)---1
+0(BACKGROUND)---2
+2(EXPLANATION)
+2---2_ltxt[We are committed to delivering the best value for money for the British taxpayer,]
+2---2_rtxt[making sure every pound is spent in the most effective way.]"
+2122,premise,premise,premise,none,none,none,none,none,"flowchart TD
+0---N0[Our New Plan for Immigration will create a fairer system to support the world's most vulnerable:]
+0(ELABORATION)---1
+1---N1[.. Continuing to resettle those in need of protection...]
+1(JOINT)---2
+2(JOINT)
+2---2_ltxt[Granting resettled refugees indefinite leave to remain...]
+2---2_rtxt[Increasing integration through job support and English lessons]"
+2123,none,none,none,implicit,implicit,none,none,none,"flowchart TD
+0(JOINT)
+0---0_ltxt[We've now resettled over , since 2015 through the Vulnerable Persons Resettlement Scheme.]
+0---0_rtxt[And today, we're announcing £14m of support to refugees ¶»' here in the UK with English language & employment support.]"
+2124,premise,none,premise,implicit,none,implicit,none,distrust_experts,"flowchart TD
+0(JOINT)
+0---0_ltxt[The Government's first priority should be to its own people.]
+0---0_rtxt[With over 6,000 veterans out on the street, how can the Home Office justify this?]"
+2125,premise,premise,premise,none,implicit,none,none,none,"flowchart TD
+1(ELABORATION)
+1---1_ltxt[Tonight, Labour voted against our plans]
+1---1_rtxt[to tackle dangerous and illegal channel crossings.]
+0(ELABORATION)---1
+0(ELABORATION)---2
+2---N2[By cutting down on illegal migration]
+2(MANNER-MEANS)---3
+3(ELABORATION)
+3---3_ltxt[we can better support those]
+3---3_rtxt[fleeing oppression, persecution and tyranny through our safe and legal routes.]"
+2126,none,none,none,implicit,implicit,implicit,implicit,distrust_experts,"flowchart TD
+0---N0[Delighted to welcome Minister @HMcEntee to the @UKHomeOffice today.]
+0(BACKGROUND)---1
+2(JOINT)
+2---2_ltxt[We spoke about the devastating cases of Ashling Murphy & Sarah Everard, and our shared determination to tackle #VAWG.]
+2---2_rtxt[As well as discussing action to prevent illegal migration & protect vulnerable people.']
+1(EXPLANATION)---2
+1---M1['']"
+2127,premise,premise,premise,implicit,implicit,implicit,implicit,distrust_experts,"flowchart TD
+1(ENABLEMENT)
+1---1_ltxt[Pleasure speaking with @NancyFaeser]
+1---1_rtxt[to congratulate her on becoming Germany's new Interior Minister.]
+0(JOINT)---1
+0(JOINT)---2
+2(EXPLANATION)
+2---2_ltxt[We discussed deepening our cooperation to tackle illegal migration, shutting down criminal gangs across Europe and protecting vulnerable people.']
+2---2_rtxt['']"
+2128,none,premise,none,implicit,implicit,implicit,implicit,distrust_experts,"flowchart TD
+1(ELABORATION)
+1---1_ltxt[The UK is committed to supporting refugees around the '.]
+1---1_rtxt[From Afghanistan and Myanmar to Ethiopia, Syria and Ukraine, we're providing immediate lifesaving assistance and protection for those most at risk.]
+0(BACKGROUND)---1
+0---M0[On #WorldRefugeeDay, and every day, we stand #withrefugees]"
+2129,conclusion,conclusion,conclusion,implicit,none,none,none,none,"flowchart TD
+2(JOINT)
+2---2_ltxt[The current asylum system makes it easy for criminal smuggling gangs to exploit migrants.]
+2---2_rtxt[Leading them to risk their lives.]
+1(EVALUATION)---2
+1---M1[This simply cannot continue.]
+0(BACKGROUND)---1
+0---M0[The #NewPlanForImmigration will change this, once and for all.]"
+2130,conclusion,conclusion,premise,implicit,implicit,implicit,implicit,defend_the_weak,"flowchart TD
+1(ELABORATION)
+1---1_ltxt[More urgent aid from the UK arrives for refugees fleeing Russian aggression.]
+1---1_rtxt[¡,blankets ¡,hygiene kits]
+0(JOINT)---1
+0---M0[Our staff on the ground in Moldova will make sure this gets to where it's needed.]"
+2131,none,none,none,implicit,none,none,none,none,"flowchart TD
+1---N1[Our #BordersBill is now in the House of Lords Committee Stage.¡,]
+1(ELABORATION)---2
+2---N2[Once it becomes law,]
+2(BACKGROUND)---3
+3---N3[the Bill will deliver an asylum system]
+3(ELABORATION)---4
+4---N4[that is firm but fair,]
+4(JOINT)---5
+5(JOINT)
+5---5_ltxt[allowing us to deter illegal migration]
+5---5_rtxt[and help those most in need.]
+0(TEXTUALORGANIZATION)---1
+0(TEXTUALORGANIZATION)---6
+6(TEXTUALORGANIZATION)
+6---6_ltxt[#NewPlanForImmigration]
+6---6_rtxt[More:]"
+2132,premise,premise,premise,implicit,implicit,implicit,implicit,distrust_experts,"flowchart TD
+1(BACKGROUND)
+1---1_ltxt[As each pathway opens,]
+1---1_rtxt[women and children will continue to be prioritised.]
+0(ELABORATION)---1
+0(ELABORATION)---2
+2(ELABORATION)
+2---2_ltxt[Building on this the UNCHR will now refer refugees most at risk to the Afghan Citizens Resettlement Scheme,]
+2---2_rtxt[including women and girls as per their international framework.]"
+2133,none,none,none,none,none,none,none,none,"flowchart TD
+1(BACKGROUND)
+1---1_ltxt[@Michael55096806]
+1---1_rtxt[None of them.]
+0(BACKGROUND)---1
+0(BACKGROUND)---2
+3(MANNER-MEANS)
+3---3_ltxt[Though I did give the Zio-media a stick to beat Corbyn]
+3---3_rtxt[by saying I'd vote for him on foreign policy grounds.]
+2(CONTRAST)---3
+2(CONTRAST)---4
+4---N4[But unless he comes out to oppose the UK sanctions on Syria]
+4(ELABORATION)---5
+5(JOINT)
+5---5_ltxt[that are killing thousands of children]
+5---5_rtxt[& adding to]"
+2134,none,none,none,implicit,implicit,implicit,none,liberty_freedom,"flowchart TD
+1---N1[Funny to see liberals whining about inevitable result of mass immigration,]
+1(CONTRAST)---2
+2---N2[but these #Muslims are right:]
+2(BACKGROUND)---3
+3(JOINT)
+3---3_ltxt[Children should be children.]
+3---3_rtxt[The child-abusing LGBTQ+ lobby are the real bullies.]
+0(EVALUATION)---1
+0---M0[#StopRSE]"
+2135,none,none,TBD,implicit,implicit,implicit,implicit,distrust_experts,"flowchart TD
+1---N1[Hi multi-millionaire Richard Gere, by aiding the illegal funneling of economic migrants to Europe,]
+1(BACKGROUND)---2
+2(ELABORATION)
+2---2_ltxt[you are killing many more]
+2---2_rtxt[who will now follow their lead.]
+0(EXPLANATION)---1
+0(EXPLANATION)---3
+3(CONDITION)
+3---3_ltxt[Why don't you put some of them up in your own home]
+3---3_rtxt[if you insist on virtue signalling?]"
+2136,premise,premise,premise,implicit,implicit,none,none,liberty_freedom,"flowchart TD
+0---N0[The scheme aims to tackle inequalities & poverty experienced by refugees in Wales]
+0(BACKGROUND)---1
+2(ELABORATION)
+2---2_ltxt[There are 710,000 people living in abject poverty in Wales.]
+2---2_rtxt[185,000 of them are children.]
+1(BACKGROUND)---2
+1---M1[I suppose it's politically incorrect to suggest putting Welsh children first?]"
+2137,conclusion,conclusion,TBD,none,implicit,implicit,none,hidden_motives,"flowchart TD
+1(CONTRAST)
+1---1_ltxt[#AsiaBibi's acquittal has been upheld by Pakistan's supreme court.]
+1---1_rtxt[She is still in fear for her life however.]
+0(CAUSE)---1
+0(CAUSE)---2
+3---N3[Remember that the UK refused this Christian woman asylum]
+3(CAUSE)---4
+4(ELABORATION)
+4---4_ltxt[because of fears]
+4---4_rtxt[it would cause ""unrest"".]
+2(EVALUATION)---3
+2---M2[An indelible disgrace on our government]"
+2138,premise,premise,premise,implicit,none,none,none,none,empty
+2139,premise,premise,premise,none,implicit,implicit,implicit,distrust_experts,"flowchart TD
+0---N0[We have a proud record on protecting children through asylum & resettlement.]
+0(BACKGROUND)---1
+1(BACKGROUND)
+1---1_ltxt[The new #WAB clause on unaccompanied children & family unity is clear:]
+1---1_rtxt[supporting them is our priority both now and after we've left the EU.]"
+2140,none,none,none,implicit,none,none,none,none,"flowchart TD
+1(ELABORATION)
+1---1_ltxt[We're focused on delivering for the whole UK,]
+1---1_rtxt[including keeping people safe & delivering a points based immigration system.]
+0(TEXTUALORGANIZATION)---1
+0---M0[#QueensSpeech]"
+2141,none,premise,none,implicit,implicit,implicit,implicit,distrust_experts,"flowchart TD
+1(ENABLEMENT)
+1---1_ltxt[We are committed to reforming immigration detention]
+1---1_rtxt[to increase the protections for vulnerable individuals.]
+0(JOINT)---1
+0(JOINT)---2
+4(ENABLEMENT)
+4---4_ltxt[We have introduced a pilot]
+4---4_rtxt[to support vulnerable women outside of detention,]
+3(SAME-UNIT)---4
+3---M3[with broader pilots planned for this and next year.]
+2(ELABORATION)---3
+2---M2[See more here:]"
+2142,conclusion,conclusion,none,none,none,implicit,implicit,time_will_tell,"flowchart TD
+0(ELABORATION)
+0---0_ltxt[Those in need of protection should claim asylum in the first safe country they reach.]
+0---0_rtxt[Home Secretary @sajidjavid & French Interior Minister @CCastaner recently agreed to reinforce the UK & France's joint efforts to tackle dangerous†small boat crossings:]"
+2143,none,none,none,implicit,none,none,none,none,"flowchart TD
+1---N1[Refugees resettled in the UK under the Vulnerable Persons Resettlement Scheme spoke to Immigration Minister @CarolineNokes about life in the UK.]
+1(BACKGROUND)---2
+2(BACKGROUND)
+2---2_ltxt[We'll continue to resettle thousands of refugees under a new scheme]
+2---2_rtxt[starting next year.]
+0(BACKGROUND)---1
+0---M0[#RefugeeWeek]"
+2144,conclusion,conclusion,none,implicit,implicit,implicit,implicit,time_will_tell,"flowchart TD
+1---N1[To kick off #RefugeeWeek,]
+1(BACKGROUND)---2
+3---N3[we've announced]
+3(ATTRIBUTION)---4
+4(ELABORATION)
+4---4_ltxt[that the UK will continue to resettle thousands of refugees under a new scheme starting in 2020]
+4---4_rtxt[-]
+2(ELABORATION)---3
+2---M2[offering a safe and legal route to the UK for some of the world's most vulnerable people.]
+0(ATTRIBUTION)---1
+0---M0[Read more:]"
+2145,none,none,none,implicit,implicit,none,none,liberty_freedom,"flowchart TD
+1(BACKGROUND)
+1---1_ltxt[At the start of #RefugeeWeek,]
+1---1_rtxt[it's vital the UK continues to provide protection to the world's most vulnerable.]
+0(BACKGROUND)---1
+0(BACKGROUND)---2
+2(ENABLEMENT)
+2---2_ltxt[That's why we are introducing a new resettlement scheme]
+2---2_rtxt[giving more refugees the opportunity to start new lives in Britain]"
+2146,conclusion,conclusion,conclusion,implicit,implicit,implicit,implicit,distrust_experts,"flowchart TD
+1---N1[@SajidJavid:]
+1(BACKGROUND)---2
+2---N2[We are also on track]
+2(ENABLEMENT)---3
+3(ELABORATION)
+3---3_ltxt[to resettle 20,000 refugees fleeing the conflict in Syria by 2020 as well as up to 3,000 of the most vulnerable people from the Middle East and North Africa,]
+3---3_rtxt[including children at risk of exploitation and abuse.]
+0(ATTRIBUTION)---1
+0---M0[@UKHomeOffice]"
+2147,conclusion,conclusion,premise,none,none,implicit,none,defend_the_weak,"flowchart TD
+0---N0[USA AND MEXICO ARE DEPORTING THOUSANDS OFUNACCOMPANIED MIGRANT CHILDREN INTO HARM'S WAY]
+0(ELABORATION)---1
+1---N1[Children are being forcibly returned]
+1(BACKGROUND)---2
+2(ELABORATION)
+2---2_ltxt[without adequate screenings or protection from the harm]
+2---2_rtxt[they may faceupon return.]"
+2148,none,none,none,implicit,implicit,implicit,implicit,hidden_motives,"flowchart TD
+1(EXPLANATION)
+1---1_ltxt[A very sad situation - especially for the children,]
+1---1_rtxt[however these are economic migrants who are destined to travel illegally into the UK.]
+0(BACKGROUND)---1
+0(BACKGROUND)---2
+3---N3[Europe needs to do more]
+3(JOINT)---4
+4(MANNER-MEANS)
+4---4_ltxt[and so should we]
+4---4_rtxt[by turning them around in the #CHANEL]
+2(EXPLANATION)---3
+2(EXPLANATION)---5
+5(ELABORATION)
+5---5_ltxt[#UKIP]
+5---5_rtxt[#ImmigrationReferendum]"
+2149,conclusion,conclusion,conclusion,implicit,implicit,implicit,implicit,distrust_experts,empty
+2150,none,conclusion,none,implicit,implicit,none,none,none,"flowchart TD
+0---N0[""BREAKING NEWS From Assembly Democrats:]
+0(BACKGROUND)---1
+1---N1[LEGALIZED Free College For Undocumented Immigrants]
+1(JOINT)---2
+2(ELABORATION)
+2---2_ltxt[REJECTED Free SUNY Tuition For Children Of Military Personnel]
+2---2_rtxt[Killed In Action]"
+2151,none,none,TBD,implicit,implicit,implicit,implicit,distrust_experts,"flowchart TD
+1(CAUSE)
+1---1_ltxt[Migrants are being ferried around the country in taxis]
+1---1_rtxt[costing the taxpayer millions of pounds.]
+0(BACKGROUND)---1
+0---M0[How can the Government justify this expense with over 6,000 homeless veterans?]"
+2152,none,conclusion,none,implicit,implicit,implicit,implicit,hidden_motives,"flowchart TD
+1(ENABLEMENT)
+1---1_ltxt[Earlier this year, Home Secretary @sajidjavid and French Interior Minister @CCastaner agreed a joint action plan]
+1---1_rtxt[to strengthen efforts against migrant activity in the #EnglishChannel.]
+0(ELABORATION)---1
+0---M0[Find out more:]"
+2154,none,none,premise,implicit,none,implicit,implicit,hidden_motives,"flowchart TD
+0(ENABLEMENT)
+0---0_ltxt[Immigration Minister @CarolineNokes met business leaders and academics in Bristol today]
+0---0_rtxt[to discuss how a skills-based #immigration system will support the #SouthWest:]"
+2155,premise,premise,premise,implicit,none,implicit,none,wicked_fairness,"flowchart TD
+0---N0[Today we're launching the #IndicatorsOfIntegration report.]
+0(BACKGROUND)---1
+2(ENABLEMENT)
+2---2_ltxt[We've been working with universities across the country]
+2---2_rtxt[to develop this important tool]
+1(ENABLEMENT)---2
+1---M1[to help organisations provide the right support for #refugees and #migrants.]"
+2156,none,none,none,implicit,none,none,none,none,"flowchart TD
+0---N0[Seen something suspicious around an airfield?]
+0(JOINT)---1
+2(CONTRAST)
+2---2_ltxt[Don't ignore it,]
+2---2_rtxt[report it.]
+1(JOINT)---2
+1(JOINT)---3
+4(JOINT)
+4---4_ltxt[Report online:]
+4---4_rtxt[or call the Police on 101]
+3(EXPLANATION)---4
+3---M3[#ReportBorderCrime]"
+2157,premise,conclusion,premise,implicit,implicit,none,none,none,empty
+2158,none,none,none,implicit,implicit,none,none,none,"flowchart TD
+2---N2[Immigration Minister @carolinenokes has said]
+2(ATTRIBUTION)---3
+3---N3[over 750,000 EU Settlement Scheme applications have been received]
+3(BACKGROUND)---4
+4(ENABLEMENT)
+4---4_ltxt[as she visited staff in Liverpool]
+4---4_rtxt[helping #EUcitizens.]
+1(BACKGROUND)---2
+1---M1[#SettledStatus]
+0(ATTRIBUTION)---1
+0---M0[Read more:]"
+2159,conclusion,conclusion,conclusion,implicit,none,implicit,none,distrust_experts,"flowchart TD
+1(ENABLEMENT)
+1---1_ltxt[Immigration Minister @carolinenokes met @WillmottDixon construction workers in Liverpool]
+1---1_rtxt[to hear how the future #immigration system can work for them.]
+0(JOINT)---1
+0---M0[Read more:]"
+2160,none,premise,none,implicit,implicit,implicit,implicit,distrust_experts,"flowchart TD
+0(ELABORATION)
+0---0_ltxt[The latest immigration stats show that the UK is attracting leading talent from across the world.]
+0---0_rtxt[Read more:]"
+2161,premise,none,premise,implicit,none,implicit,none,wicked_fairness,empty
+2162,conclusion,conclusion,premise,implicit,implicit,implicit,implicit,hidden_motives,"flowchart TD
+1(BACKGROUND)
+1---1_ltxt[As part of a national conversation on the future skills-based immigration system,]
+1---1_rtxt[Immigration Minister @CarolineNokes visited @monzo in London]
+0(ENABLEMENT)---1
+0---M0[to discuss the government's plans.]"
+2163,premise,none,premise,implicit,implicit,none,implicit,defend_the_weak,"flowchart TD
+0---N0[Seen something suspicious around an airfield?]
+0(JOINT)---1
+4(CONTRAST)
+4---4_ltxt[Don't ignore it,]
+4---4_rtxt[report it.]
+3(MANNER-MEANS)---4
+3(MANNER-MEANS)---5
+5(JOINT)
+5---5_ltxt[Online:]
+5---5_rtxt[or call the Police on 101.]
+2(JOINT)---3
+2(JOINT)---6
+6---N6[Want to give info ANONYMOUSLY?]
+6(TOPIC-COMMENT)---7
+7(JOINT)
+7---7_ltxt[Call 0800 555111]
+7---7_rtxt[or fill in our quick & easy online form at @UKHomeOffice]
+1(JOINT)---2
+1---M1[#reportbordercrime]"
+2164,none,none,none,none,none,none,none,none,"flowchart TD
+2(ENABLEMENT)
+2---2_ltxt[We've opened two new visa routes]
+2---2_rtxt[to attract #entrepreneurs to the UK.]
+1(ENABLEMENT)---2
+1---M1[Find out more:]
+0(ELABORATION)---1
+0---M0[#innovation #startup #business]"
+2165,premise,premise,none,none,none,none,none,none,"flowchart TD
+0---N0[The #Windrush Compensation Scheme is open for applications:]
+0(ELABORATION)---1
+1(ENABLEMENT)
+1---1_ltxt[Minister @carolinenokes met High Commissioners of Commonwealth countries and representatives of the Overseas Territories]
+1---1_rtxt[to discuss the scheme.]"
+2166,premise,conclusion,premise,implicit,implicit,implicit,implicit,hidden_motives,"flowchart TD
+2(ENABLEMENT)
+2---2_ltxt[Today we've opened two new visa routes]
+2---2_rtxt[to attract #entrepreneurs to the UK.]
+1(ENABLEMENT)---2
+1---M1[Find out more:]
+0(ELABORATION)---1
+0---M0[#innovation #startup #business]"
+2167,premise,conclusion,premise,implicit,none,implicit,none,hidden_motives,"flowchart TD
+1(CONTRAST)
+1---1_ltxt[Detention is a vital part of our immigration system]
+1---1_rtxt[but it is only used in cases where it is absolutely necessary.]
+0(BACKGROUND)---1
+0---M0[Read more about the Home Office's approach to immigration detention:]"
+2169,none,none,premise,implicit,implicit,implicit,implicit,defend_the_weak,"flowchart TD
+1(ENABLEMENT)
+1---1_ltxt[Home Secretary @sajidjavid and French Interior Minister @CCastaner recently agreed a new joint action plan]
+1---1_rtxt[to strengthen efforts against migrant activity in the English Channel.]
+0(TEXTUALORGANIZATION)---1
+0---M0[Find out more:]"
+2170,none,none,none,implicit,none,implicit,implicit,distrust_experts,"flowchart TD
+0---N0[New #Immigration stats published yesterday.]
+0(ELABORATION)---1
+1(ELABORATION)
+1---1_ltxt[In 2018, 130 refugees were resettled via #CommunitySponsorship.]
+1---1_rtxt[60 of these were welcomed in the last three months of the year.]"
+2172,conclusion,conclusion,conclusion,implicit,implicit,implicit,implicit,distrust_experts,"flowchart TD
+0(ELABORATION)
+0---0_ltxt[Today's Migration Statistics Quarterly Report from @ONS shows that the UK continues to be recognised as a great place to work and study.]
+0---0_rtxt[Read Immigration Minister @carolinenokes' statement on our blog:]"
+2174,premise,premise,premise,implicit,none,implicit,implicit,distrust_experts,"flowchart TD
+2(ELABORATION)
+2---2_ltxt[Last year, Home Secretary @sajidjavid set out plans for a new skills-based immigration system]
+2---2_rtxt[that would mark the end of free movement.]
+1(TEXTUALORGANIZATION)---2
+1---M1[Find out more:]
+0(ELABORATION)---1
+0---M0[#Brexit]"
+2175,premise,premise,premise,implicit,implicit,implicit,none,natural_traditional_is_better,"flowchart TD
+0(ELABORATION)
+0---0_ltxt[Lots of discussion about the future #immigration system, today.]
+0---0_rtxt[Here's why we believe it will protect jobs, grow the economy and deliver on the referendum result:]"
+2176,premise,conclusion,premise,implicit,none,implicit,implicit,distrust_experts,"flowchart TD
+1(ENABLEMENT)
+1---1_ltxt[Home Secretary @sajidjavid and French Interior Minister @CCastaner have agreed a joint action plan]
+1---1_rtxt[to strengthen efforts against migrant activity in the English Channel.]
+0(TEXTUALORGANIZATION)---1
+0---M0[Find out more:]"
+2177,none,none,none,implicit,implicit,implicit,implicit,distrust_experts,"flowchart TD
+1---N1[I was pleased to have the opportunity to speak at the launch of the Refugee Employment Network today]
+1(JOINT)---2
+2(ENABLEMENT)
+2---2_ltxt[and look forward to working with them]
+2---2_rtxt[to help refugees find work and integrate into their communities.]
+0(EXPLANATION)---1
+0---M0[#RefugeesIntoWork]"
+2178,premise,premise,premise,implicit,none,implicit,none,distrust_experts,"flowchart TD
+0---N0[Immigration Minister @carolinenokes and French Interior Minister @CCastaner have visited the Joint Co-ordination & Information Centre in Calais]
+0(ENABLEMENT)---1
+1(ENABLEMENT)
+1---1_ltxt[to see first-hand some of the work that is being done]
+1---1_rtxt[to tackle attempts to cross the #EnglishChannel illegally via small boats.]"
+2179,none,none,none,implicit,implicit,implicit,implicit,distrust_experts,"flowchart TD
+0---N0[With Immigration Minister @carolinenokes and Interior Minister @CCastaner in Calais this morning -]
+0(BACKGROUND)---1
+1(JOINT)
+1---1_ltxt[great to be able to thank]
+1---1_rtxt[and law enforcement officers for their hard work in keeping our borders secure]"
+2180,premise,premise,premise,implicit,none,implicit,none,wicked_fairness,"flowchart TD
+1(ENABLEMENT)
+1---1_ltxt[Home Secretary @sajidjavid and French Interior Minister @CCastaner have agreed a new joint action plan]
+1---1_rtxt[to strengthen efforts against migrant activity in the English Channel.]
+0(TEXTUALORGANIZATION)---1
+0---M0[Find out more:]"
+2184,conclusion,none,conclusion,implicit,none,implicit,none,time_will_tell,"flowchart TD
+0(BACKGROUND)
+0---0_ltxt[Productive discussions around tackling migrant crossings in the Channel with my French counterpart @CCastaner today.]
+0---0_rtxt[Vital we continue our united response]"
+2185,conclusion,conclusion,premise,none,none,implicit,none,hidden_motives,"flowchart TD
+0(BACKGROUND)
+0---0_ltxt[In London with my UK counterpart @SajidJavid.]
+0---0_rtxt[Together, we will discuss our joint efforts to combat illegal migration at our common border, but also our essential bilateral cooperation as regards security and counterterrorism.]"
+2186,none,none,TBD,implicit,none,implicit,none,wicked_fairness,"flowchart TD
+0---N0[Thank you @CCastaner for coming to London.]
+0(BACKGROUND)---1
+1(EXPLANATION)
+1---1_ltxt[France and the UK have an unbreakable bond.]
+1---1_rtxt[I look forward to deepening our partnership further on illegal migration, serious crime and security]"
+2187,premise,premise,none,implicit,implicit,implicit,implicit,defend_the_weak,"flowchart TD
+0(JOINT)
+0---0_ltxt[This is why UKIP is calling on this Conservative Government to set a cap]
+0---0_rtxt[and reduce net migration to below 10,000 per year.]"
+2189,premise,premise,premise,implicit,implicit,implicit,implicit,distrust_experts,"flowchart TD
+0---N0[Vote @UKIP where you can for Brexit and beyond:]
+0(BACKGROUND)---1
+1---N1[Clean-break Brexit]
+1(JOINT)---2
+2---N2[Cut net immigration to 10,000]
+2(JOINT)---3
+3---N3[Abolish overseas aid budget]
+3(JOINT)---4
+5(JOINT)
+5---5_ltxt[Beef up our armed forces]
+5---5_rtxt[Make the UK self-sufficient in skills]
+4(JOINT)---5
+4(JOINT)---6
+7(JOINT)
+7---7_ltxt[Free market economy]
+7---7_rtxt[Scrap the TV licence]
+6(JOINT)---7
+6(JOINT)---8
+8(JOINT)
+8---8_ltxt[Support free speech]
+8---8_rtxt[End political correctness]"
+2190,none,none,TBD,implicit,implicit,implicit,implicit,wicked_fairness,"flowchart TD
+0---N0[UKIP stands for far more than just Brexit:]
+0(BACKGROUND)---1
+5---N5[- End mass immigration]
+5(JOINT)---6
+7(JOINT)
+7---7_ltxt[s]
+7---7_rtxt[Invest in our NHS rather than foreign aid]
+6(JOINT)---7
+6---M6[- Scrap the TV Licence Fee]
+4(JOINT)---5
+4---M4[- Ban Non-Stun Slaughter]
+3(JOINT)---4
+3---M3[- Defend Free Speech]
+2(JOINT)---3
+2(JOINT)---8
+8(ENABLEMENT)
+8---8_ltxt[Read our manifesto]
+8---8_rtxt[to find out more:]
+1(JOINT)---2
+1---M1[#GE2019]"
+2192,conclusion,conclusion,conclusion,implicit,implicit,implicit,implicit,wicked_fairness,"flowchart TD
+0---N0[Complete and total withdrawal from the European Union.]
+0(BACKGROUND)---1
+2---N2[KIP stands for:]
+2(ATTRIBUTION)---3
+3---N3[-no more money to the EU]
+3(JOINT)---4
+4---N4[-no more EU laws]
+4(JOINT)---5
+5(JOINT)
+5---5_ltxt[-no more being under the European Court]
+5---5_rtxt[-no more open border EU immigration]
+1(JOINT)---2
+1---M1[#GE2019]"
+2196,none,none,none,none,none,implicit,none,defend_the_weak,"flowchart TD
+1(CONTRAST)
+1---1_ltxt[Asking for proper management of immigration is not dog-whistling,]
+1---1_rtxt[it's a function of any normal government.]
+0(TEXTUALORGANIZATION)---1
+0(TEXTUALORGANIZATION)---2
+2---N2[Jo Swinson:]
+2(ATTRIBUTION)---3
+3(ELABORATION)
+3---3_ltxt[PM's 'dog-whistle' tactics]
+3---3_rtxt[putting EU citizens at risk]"
+2197,none,none,premise,implicit,implicit,implicit,implicit,wicked_fairness,"flowchart TD
+3(JOINT)
+3---3_ltxt[A town the size of Oldham every year.]
+3---3_rtxt[More than one Rochester a year.]
+2(JOINT)---3
+2(JOINT)---4
+4---N4[UK net immigration is out of control.]
+4(BACKGROUND)---5
+5(JOINT)
+5---5_ltxt[UKIP wants to end mass immigration]
+5---5_rtxt[and reduce the figure to below 10,000 net a year.]
+1(BACKGROUND)---2
+1---M1[#GE2019]
+0(BACKGROUND)---1
+0---M0[Common sense ideas for Brexit and Beyond.]"
+2200,none,none,none,none,implicit,none,none,defend_the_weak,"flowchart TD
+2(JOINT)
+2---2_ltxt[Four towns the size of Bognor Regis, virtually another Southampton every year.]
+2---2_rtxt[Immigration is out of control.]
+1(JOINT)---2
+1---M1[Looking to Brexit and beyond...]
+0(BACKGROUND)---1
+0---M0[#GeneralElection2019]"
+2201,none,none,premise,none,none,none,none,defend_the_weak,"flowchart TD
+1(ELABORATION)
+1---1_ltxt[Rescind the Barcelona Declaration (1995) and the Marrakesh Declaration (2018)]
+1---1_rtxt[that pave the way for more uncontrolled immigration from Africa, the Middle East and beyond.]
+0(BACKGROUND)---1
+0---M0[#GeneralElection2019]"
+2204,none,none,none,implicit,implicit,implicit,implicit,liberty_freedom,"flowchart TD
+1(ENABLEMENT)
+1---1_ltxt[We need a Migration Control Department]
+1---1_rtxt[to oversee immigration, border control and the repatriation of illegal immigrants.]
+0(ELABORATION)---1
+0---M0[#GeneralElection2019]"
+2205,none,none,none,none,implicit,implicit,implicit,wicked_fairness,"flowchart TD
+1(JOINT)
+1---1_ltxt[UKIP believes the age of uncontrolled mass-immigration must end.]
+1---1_rtxt[No more than 10,000 people net a year is enough!]
+0(BACKGROUND)---1
+0(BACKGROUND)---2
+2(BACKGROUND)
+2---2_ltxt[To Brexit and Beyond..,]
+2---2_rtxt[#GeneralElection2019]"
+2207,none,none,none,implicit,implicit,implicit,implicit,defend_the_weak,"flowchart TD
+1---N1[End mass immigration.]
+1(JOINT)---2
+2---N2[UKIP wants net migration down to below 10,000 a year.]
+2(JOINT)---3
+3(JOINT)
+3---3_ltxt[Temporary immigration for workers and students should be time-limited and strictly controlled.]
+3---3_rtxt[No asylum for migrants entering illegally from a safe country.]
+0(BACKGROUND)---1
+0---M0[#GeneralElection2019]"
+2208,premise,conclusion,premise,implicit,implicit,implicit,implicit,defend_the_weak,empty
+2210,none,none,none,implicit,implicit,implicit,implicit,defend_the_weak,"flowchart TD
+0---N0[@UKLabour have completely abandoned the working class of this country.]
+0(BACKGROUND)---1
+1---N1[Let's be clear]
+1(BACKGROUND)---2
+2---N2[a vote for #labour is a vote for:]
+2(BACKGROUND)---3
+3---N3[1 Open borders]
+3(JOINT)---4
+4---N4[2 Depressed wages]
+4(JOINT)---5
+5(JOINT)
+5---5_ltxt[3 Votes for migrants]
+5---5_rtxt[4 An NHS which is open to the entire world.]"
+2223,none,none,premise,none,none,none,none,wicked_fairness,"flowchart TD
+2(ELABORATION)
+2---2_ltxt[If Labour wins with its radical pro-immigration policy]
+2---2_rtxt[(voted for at conference),]
+1(CONDITION)---2
+1---M1[Britain will effectively become an Open-Border nation]
+0(BACKGROUND)---1
+0---M0[Labour activists call on Corbyn to push radical stance on migration]"
+2224,conclusion,conclusion,premise,implicit,implicit,implicit,implicit,scapegoat,"flowchart TD
+1---N1[The #Labour Party harp on about diversity,]
+1(CONTRAST)---2
+2(BACKGROUND)
+2---2_ltxt[but look at the reaction]
+2---2_rtxt[when I dare to mention the 'white working class'...]
+0(BACKGROUND)---1
+0(BACKGROUND)---3
+3---N3[#UKIP]
+3(JOINT)---4
+4(JOINT)
+4---4_ltxt[#WorkingClassVoice]
+4---4_rtxt[#Immigration]"
+2225,premise,none,premise,none,implicit,none,implicit,wicked_fairness,"flowchart TD
+1---N1[Boris's 1st Queen's speech:]
+1(BACKGROUND)---2
+2---N2[ID checks during voting.]
+2(JOINT)---3
+4---N4[Australian-style points system for immigration.]
+4(JOINT)---5
+5---N5[Longer sentences for violent crime.]
+5(JOINT)---6
+6(JOINT)
+6---6_ltxt[End leniency for foreign criminals and migrant crime.]
+6---6_rtxt[Improve animal welfare.]
+3(JOINT)---4
+3---M3[Someone has been reading the @UKIP manifesto..]
+0(EVALUATION)---1
+0---M0[Good job Boris!]"
+2228,none,none,none,none,none,none,none,defend_the_weak,"flowchart TD
+1---N1[EU member states are enraged]
+1(BACKGROUND)---2
+2(ENABLEMENT)
+2---2_ltxt[as the new EU Commission President demands a huge hike in membership fees]
+2---2_rtxt[to pay for climate alarmism and increased immigration under the Barcelona/Marrakesh declarations.]
+0(EVALUATION)---1
+0---M0[The UK is way better off out of this shower.]"
+2232,none,none,none,none,none,none,none,defend_the_weak,"flowchart TD
+0---N0[Why does the ""No Deal"" plan seem almost exactly like the ""May Deal"" plan?]
+0(BACKGROUND)---1
+1(BACKGROUND)
+1---1_ltxt[Travel, trade, phone bills and immigration: no-deal Brexit plan]
+1---1_rtxt[explained]"
+2233,none,none,none,implicit,none,none,none,defend_the_weak,"flowchart TD
+1(CONTRAST)
+1---1_ltxt[Destroying the British countryside is NOT a solution to the housing crisis.]
+1---1_rtxt[The first step in fixing it must be to get immigration under proper control.]
+0(TEXTUALORGANIZATION)---1
+0(TEXTUALORGANIZATION)---2
+2---N2[Corbyn's housing disaster:]
+2(TEXTUALORGANIZATION)---3
+3(JOINT)
+3---3_ltxt[Plan will cost taxpayers BILLIONS]
+3---3_rtxt[and send prices soaring]"
+2237,none,premise,none,none,none,none,implicit,defend_the_weak,"flowchart TD
+0---N0[WATCH my speech on Education at this year's @UKIP conference.]
+0(BACKGROUND)---1
+1(JOINT)
+1---1_ltxt[The UK needs to end mass immigration]
+1---1_rtxt[and become self-sufficient in skills.]"
+2238,none,none,premise,none,implicit,none,implicit,wicked_fairness,"flowchart TD
+1(BACKGROUND)
+1---1_ltxt[Who remembers this?]
+1---1_rtxt[Welsh Labour cannot be trusted on immigration.]
+0(BACKGROUND)---1
+0---M0[#UKIP say NO to mass uncontrolled immigration]"
+2239,none,none,none,none,none,none,none,wicked_fairness,"flowchart TD
+1(JOINT)
+1---1_ltxt[Labour wants open borders]
+1---1_rtxt[and every migrant is to get a vote equal to a citizens.]
+0(JOINT)---1
+0(JOINT)---2
+2(BACKGROUND)
+2---2_ltxt[Never has it been more blatant,]
+2---2_rtxt[mass immigration is Labour importing votes.]"
+2240,premise,premise,premise,none,none,none,none,defend_the_weak,"flowchart TD
+0---N0[Bad decision Labour.]
+0(BACKGROUND)---1
+1(JOINT)
+1---1_ltxt[Labour backs free movement after Brexit]
+1---1_rtxt[and giving all immigrants the vote]"
+2241,none,none,TBD,implicit,none,implicit,none,wicked_fairness,"flowchart TD
+0(ELABORATION)
+0---0_ltxt[BXP and Tory's should not endorse mass migration.]
+0---0_rtxt[UKIP has always been very clear in its policy on mass immigration.]"
+2242,none,premise,none,none,none,none,none,wicked_fairness,empty
+2245,none,none,none,implicit,implicit,implicit,implicit,defend_the_weak,"flowchart TD
+2---N2[The #Labour party has utterly abandoned any claim to represent ordinary people in this country.]
+2(JOINT)---3
+3---N3[A party that supports mass immigration]
+3(ENABLEMENT)---4
+4(JOINT)
+4---4_ltxt[to depress wages]
+4---4_rtxt[and expand its migrant voter base.]
+1(EXPLANATION)---2
+1---M1[Bring on a General Election!]
+0(BACKGROUND)---1
+0---M0[#GeneralElection2019]"
+2248,premise,none,premise,implicit,implicit,implicit,implicit,hidden_motives,empty
+2249,premise,premise,premise,implicit,implicit,implicit,implicit,hidden_motives,"flowchart TD
+1(BACKGROUND)
+1---1_ltxt[@GoffVinny]
+1---1_rtxt[I think you missed the point Vinny.]
+0(BACKGROUND)---1
+0---M0[The video refers to criminalising speech that criticises migration.]"
+2250,premise,none,premise,implicit,implicit,implicit,none,defend_the_weak,"flowchart TD
+0---N0[@andyrossecon]
+0(BACKGROUND)---1
+1---N1[@DavidPoulden]
+1(BACKGROUND)---2
+2---N2[And what does UKIP's level of support have to do with the EU attempting to criminalise criticism of mass-immigration?]
+2(JOINT)---3
+3(CONTRAST)
+3---3_ltxt[If it's bad law, it's bad law,]
+3---3_rtxt[regardless of who points it out.]"
+2251,none,none,none,none,implicit,implicit,implicit,defend_the_weak,"flowchart TD
+2(BACKGROUND)
+2---2_ltxt[we want to criminalise migration speech,]
+2---2_rtxt[criticism of migration will become a criminal offence]
+1(BACKGROUND)---2
+1---M1[This is where we are.]
+0(BACKGROUND)---1
+0(BACKGROUND)---3
+3(JOINT)
+3---3_ltxt[Time to make a change]
+3---3_rtxt[and start being a real nation again.]"
+2260,none,none,none,implicit,implicit,implicit,implicit,defend_the_weak,"flowchart TD
+2(ELABORATION)
+2---2_ltxt[Dublin Reforms = Shared Burden of mass-migration -]
+2---2_rtxt[Forcing countries to take their ""fair share"".]
+1(JOINT)---2
+1(JOINT)---3
+3(ELABORATION)
+3---3_ltxt[New EU boss to rip-up cornerstone of EU]
+3---3_rtxt[-]
+0(JOINT)---1
+0---M0[Von der Leyen wants Dublin reforms]"
+2262,premise,premise,premise,implicit,implicit,implicit,implicit,defend_the_weak,"flowchart TD
+1---N1[Pure madness.]
+1(BACKGROUND)---2
+2(ENABLEMENT)
+2---2_ltxt[Not enough migrants arriving]
+2---2_rtxt[to keep pay down]
+0(ATTRIBUTION)---1
+0---M0[- Central Bank]"
+2263,premise,premise,premise,none,implicit,implicit,implicit,defend_the_weak,"flowchart TD
+1(EVALUATION)
+1---1_ltxt[Is giving away a MILLION passports to illegal migrants really in our national interest?]
+1---1_rtxt[@BorisJohnson must think again.]
+0(JOINT)---1
+0(JOINT)---2
+2(JOINT)
+2---2_ltxt[Please sign]
+2---2_rtxt[and RT.]"
+2264,premise,premise,premise,none,implicit,implicit,implicit,defend_the_weak,"flowchart TD
+0(JOINT)
+0---0_ltxt[Well worth a read.]
+0---0_rtxt[An amnesty for illegal migrants?]"
+2265,premise,premise,premise,implicit,none,implicit,implicit,defend_the_weak,"flowchart TD
+1(JOINT)
+1---1_ltxt[What's this?]
+1---1_rtxt[Another UKIP policy ""adopted"" by the Tories?]
+0(JOINT)---1
+0(JOINT)---2
+2(ATTRIBUTION)
+2---2_ltxt[I will shake up immigration,]
+2---2_rtxt[says PRITI PATEL via @MailOnline]"
+2266,none,none,premise,implicit,none,implicit,none,hidden_motives,"flowchart TD
+1---N1[Interesting numbers.]
+1(CONTRAST)---2
+2(ELABORATION)
+2---2_ltxt[Although it appears that the migration flow is all one way.]
+2---2_rtxt[Not a sustainable system.]
+0(TOPIC-COMMENT)---1
+0---M0[Who acquired citizenship in the EU in 2017?]"
+2267,conclusion,none,conclusion,implicit,none,implicit,none,defend_the_weak,"flowchart TD
+0(ATTRIBUTION)
+0---0_ltxt[Johnson Refuses to Commit to Lowering Immigration]
+0---0_rtxt[via @BreitbartNews]"
+2271,none,none,premise,none,none,none,none,wicked_fairness,"flowchart TD
+1(ELABORATION)
+1---1_ltxt[Mass immigration aded 258,000 people to the UK population in 2018, with no signs of a reduction this year.]
+1---1_rtxt[These people will all require medical treatment at some point.]
+0(ELABORATION)---1
+0---M0[The #NHS simply cannot cope with these pressures.]"
+2272,none,none,none,implicit,implicit,implicit,implicit,hidden_motives,"flowchart TD
+1---N1[This is idiotic -]
+1(JOINT)---2
+2(BACKGROUND)
+2---2_ltxt[Will he force people to stay in one area]
+2---2_rtxt[once they get a visa?]
+0(JOINT)---1
+0---M0[Sajid Javid eyes new regional migrant rules for skilled workers after Brexit]"
+2273,none,none,none,implicit,implicit,implicit,implicit,hidden_motives,"flowchart TD
+0---N0[A total failure by the Home Office.]
+0(BACKGROUND)---1
+1(BACKGROUND)
+1---1_ltxt[The Tories have failed on immigration year after year.]
+1---1_rtxt[How much longer will we allow it to go on?]"
+2274,premise,premise,premise,implicit,implicit,implicit,implicit,defend_the_weak,"flowchart TD
+0---N0[74 people in one day -]
+0(BACKGROUND)---1
+1---N1[This is dangerous.]
+1(EXPLANATION)---2
+2---N2[How many people will die at sea,]
+2(JOINT)---3
+3(JOINT)
+3---3_ltxt[how many people will be trafficked,]
+3---3_rtxt[how many genuine refugees will be made to wait even longer by those that game the system?]"
+2276,none,none,none,implicit,none,implicit,none,wicked_fairness,"flowchart TD
+1(ELABORATION)
+1---1_ltxt[The UK Government missed their net migration target this year.]
+1---1_rtxt[The 37th year in a row they've missed their own target.]
+0(BACKGROUND)---1
+0(BACKGROUND)---2
+2---N2[Brexit was a movement for a British Britain,]
+2(CONTRAST)---3
+3(ELABORATION)
+3---3_ltxt[not a Britain]
+3---3_rtxt[packed to the rafters with immigrants who do not share our British values.]"
+2278,conclusion,conclusion,conclusion,none,none,none,none,defend_the_weak,"flowchart TD
+0---N0[Re-wilding a quarter of the UK is a lovely idea,]
+0(CONTRAST)---1
+1---N1[but it isn't going happen]
+1(BACKGROUND)---2
+2(JOINT)
+2---2_ltxt[now that England is as densely populated as India,]
+2---2_rtxt[and the UK has net legal immigration of 300,000 per year + unknown illegal immigration.]"
+2279,none,none,conclusion,implicit,implicit,implicit,implicit,defend_the_weak,"flowchart TD
+2---N2[As of Monday, all ""landing cards"" for overseas visitors will be scrapped.]
+2(JOINT)---3
+3(JOINT)
+3---3_ltxt[Immigration Service Union general secretary, Lucy Moreton, was told that a digital replacement would be in place...]
+3---3_rtxt[the Home Office lied to her.]
+1(JOINT)---2
+1---M1[The government DOES NOT take immigration seriously.]
+0(BACKGROUND)---1
+0---M0[#VoteUKIP]"
+2281,premise,premise,premise,implicit,implicit,implicit,implicit,defend_the_weak,"flowchart TD
+1(JOINT)
+1---1_ltxt[Momentum calls for ""all migrant detention centres to be abolished.""]
+1---1_rtxt[Corbyn's frontliners are for open borders.]
+0(JOINT)---1
+0(JOINT)---2
+2(JOINT)
+2---2_ltxt[Will Corbyn say no?]
+2---2_rtxt[Or will he go along with whoever can keep him in his job?]"
+2284,none,none,TBD,none,none,implicit,none,defend_the_weak,"flowchart TD
+0---N0[EU PLOT:]
+0(BACKGROUND)---1
+1---N1[Verhofstadt admits plan]
+1(ELABORATION)---2
+2(JOINT)
+2---2_ltxt[to scrap veto]
+2---2_rtxt[and FORCE EU project on member states]"
+2285,none,none,none,none,none,none,none,wicked_fairness,"flowchart TD
+0---N0[Pleased to see that #AsiaBibi has been offered asylum in Canada.]
+0(JOINT)---1
+1(MANNER-MEANS)
+1---1_ltxt[The UK government shamefully kowtowed to extremists]
+1---1_rtxt[by denying her entry to the UK.]"
+2286,conclusion,conclusion,conclusion,implicit,implicit,implicit,implicit,defend_the_weak,"flowchart TD
+0(JOINT)
+0---0_ltxt[UKIP Immigration Spokesman @PaulJamesOakley debates voting rights for all UK residents.]
+0---0_rtxt[WATCH:]"
+2287,none,none,TBD,none,implicit,none,implicit,defend_the_weak,"flowchart TD
+0---N0[My 5 point plan for #NewportWest:]
+0(BACKGROUND)---1
+3---N3[- MAKE #Brexit happen]
+3(JOINT)---4
+4---N4[- STOP mass immigration]
+4(JOINT)---5
+5---N5[- BIN the BBC license fee]
+5(JOINT)---6
+6(JOINT)
+6---6_ltxt[- SCRAP the Welsh Assembly]
+6---6_rtxt[- CUT food & fuel prices]
+2(JOINT)---3
+2---M2[Send the political elites a message this Thursday.]
+1(EXPLANATION)---2
+1---M1[#VoteUKIP]"
+2297,premise,none,premise,none,implicit,none,implicit,hidden_motives,"flowchart TD
+1(TEXTUALORGANIZATION)
+1---1_ltxt[@NeilUKIP, UKIP's 2019 Newport West by-election candidate debates a @LibDems voter on #Brexit and immigration.]
+1---1_rtxt[#VoteUKIP]
+0(BACKGROUND)---1
+0---M0[@UKIPWales]"
+2298,none,none,none,none,none,none,none,wicked_fairness,"flowchart TD
+1(ATTRIBUTION)
+1---1_ltxt[@LordAshcroft says]
+1---1_rtxt[the most electorally popular party would be one which:]
+0(BACKGROUND)---1
+0(BACKGROUND)---2
+2---N2[...]
+2(JOINT)---3
+3---N3[Reduces immigration...]
+3(JOINT)---4
+4---N4[Tougher on law and order...]
+4(JOINT)---5
+5---N5[Slashes the foreign aid budget...]
+5(JOINT)---6
+6---N6[Delivers real Brexit...]
+6(JOINT)---7
+7(JOINT)
+7---7_ltxt[Believes threat of climate change is exaggerated]
+7---7_rtxt[It's called UKIP.]"
+2304,conclusion,conclusion,conclusion,implicit,implicit,implicit,implicit,defend_the_weak,"flowchart TD
+0---N0[Labour want to keep freedom of movement to the UK.]
+0(ELABORATION)---1
+2---N2[This will result in low-skilled migrants flooding into the country,]
+2(JOINT)---3
+3(JOINT)
+3---3_ltxt[keeping wages low]
+3---3_rtxt[& allowing companies to access cheap foreign workers.]
+1(JOINT)---2
+1---M1[They should be renamed the #CheapLabourParty.]"
+2305,conclusion,conclusion,conclusion,none,implicit,none,implicit,defend_the_weak,"flowchart TD
+0---N0[HAVE YOU GOT A LOICENCE FOR THAT...]
+0(JOINT)---1
+1(JOINT)
+1---1_ltxt[Wait, illegal immigrants?]
+1---1_rtxt[Please welcome!]"
+2309,none,conclusion,none,none,none,none,none,defend_the_weak,"flowchart TD
+0(EXPLANATION)
+0---0_ltxt[Labour councils are refusing to co-operate with the Home Office over illegal immigration.]
+0---0_rtxt[They wouldn't want to lose all those potential voters after all . . .]"
+2312,none,premise,none,none,none,none,none,defend_the_weak,"flowchart TD
+1(ELABORATION)
+1---1_ltxt[EXCLUSIVE:]
+1---1_rtxt[UKIP Immigration Spokesman @PaulJamesOakley Condemns ""Blatant Cruelty"" Of Latest Deportations To Jamaica Of British Residents]
+0(ATTRIBUTION)---1
+0---M0[via @Politicalite]"
+2314,conclusion,none,conclusion,none,none,none,none,wicked_fairness,"flowchart TD
+0(EVALUATION)
+0---0_ltxt[Common sense prevails.]
+0---0_rtxt[A bad day for people smugglers.]"
+2315,conclusion,conclusion,conclusion,implicit,none,implicit,none,defend_the_weak,"flowchart TD
+2(JOINT)
+2---2_ltxt[This man paid people smugglers €16,000]
+2---2_rtxt[and refused asylum from every country in Europe except the U.K.]
+1(EVALUATION)---2
+1---M1[We should be asking ourselves why.]
+0(JOINT)---1
+0---M0[We should also be asking ourselves why this is being couched in such favourable terms in the media.]"
+2316,conclusion,conclusion,conclusion,implicit,none,implicit,none,defend_the_weak,"flowchart TD
+1---N1[We'll sign the nation up for mass immigration without consultation]
+1(TEMPORAL)---2
+2(CAUSE)
+2---2_ltxt[then refuse to debate]
+2---2_rtxt[because we've already signed it...]
+0(EVALUATION)---1
+0---M0[Know your place peasants!]"
+2322,premise,premise,conclusion,none,implicit,none,implicit,defend_the_weak,"flowchart TD
+2(JOINT)
+2---2_ltxt[Jeremy Hunt et al will wring their hands over the persecution of Christians]
+2---2_rtxt[and promise to 'conduct a review',]
+1(CONTRAST)---2
+1---M1[however, when clear leadership and action are required.....nothing.]
+0(TEXTUALORGANIZATION)---1
+0---M0[#AsiaBibi]"
+2331,none,none,TBD,none,none,none,none,natural_traditional_is_better,"flowchart TD
+1(JOINT)
+1---1_ltxt[The Conservatives missed 37 immigration targets in a row]
+1---1_rtxt[and won't even set a new one.]
+0(EVALUATION)---1
+0---M0[Time for real action on this issue.]"
+2335,none,none,none,none,none,none,none,defend_the_weak,"flowchart TD
+2(ATTRIBUTION)
+2---2_ltxt[The Labour Party has just announced]
+2---2_rtxt[it will throw open our borders to the world]
+1(JOINT)---2
+1(JOINT)---3
+3(ENABLEMENT)
+3---3_ltxt[No immigration targets, no points-based system, but a red carpet to anybody, anywhere]
+3---3_rtxt[to come to the UK]
+0(BACKGROUND)---1
+0---M0[Never has a political party been so out of touch with the public]"
+2338,none,none,none,implicit,implicit,implicit,implicit,wicked_fairness,"flowchart TD
+0(JOINT)
+0---0_ltxt[Labour now officially the party of open door mass migration without control.]
+0---0_rtxt[Old Labour voters will be appalled by this.]"
+2341,premise,premise,conclusion,implicit,implicit,implicit,none,defend_the_weak,"flowchart TD
+1(ENABLEMENT)
+1---1_ltxt[Boris Johnson is saying what the audience wants to hear]
+1---1_rtxt[in order to get elected.]
+0(CONTRAST)---1
+0---M0[Nobody knows where he really stands on HS2, Heathrow expansion and immigration let alone Brexit.]"
+2342,none,none,none,implicit,none,implicit,none,defend_the_weak,"flowchart TD
+2(BACKGROUND)
+2---2_ltxt[Has Bojo lost his mojo]
+2---2_rtxt[when it comes to addressing mass immigration?]
+1(JOINT)---2
+1---M1[His Points Based System will not tackle it.]
+0(TEXTUALORGANIZATION)---1
+0(TEXTUALORGANIZATION)---3
+4---N4[@borisjohnson]
+4(JOINT)---5
+5---N5[@jeremy_hunt]
+5(JOINT)---6
+6(JOINT)
+6---6_ltxt[@ConHome]
+6---6_rtxt[@Nigel_Farage.]
+3(JOINT)---4
+3---M3[See thread below.]"
+2344,premise,premise,premise,implicit,implicit,implicit,implicit,hidden_motives,"flowchart TD
+2(ENABLEMENT)
+2---2_ltxt[An Australian-style points system can be used]
+2---2_rtxt[to be increase or decrease immigration numbers.]
+1(JOINT)---2
+1---M1[Does @BorisJohnson want to reduce the numbers?]
+0(CONTRAST)---1
+0---M0[I don't think so.]"
+2347,none,none,none,none,none,none,none,defend_the_weak,"flowchart TD
+3(BACKGROUND)
+3---3_ltxt[In this video,]
+3---3_rtxt[Theresa May says that she agrees with Labour on ending free movement.]
+2(EVALUATION)---3
+2---M2[Lies, lies, lies.]
+1(ELABORATION)---2
+1(ELABORATION)---4
+4(JOINT)
+4---4_ltxt[As Home Sec she failed to control immigration,]
+4---4_rtxt[and she has failed again as PM.]
+0(JOINT)---1
+0(JOINT)---5
+5(BACKGROUND)
+5---5_ltxt[As for Labour,]
+5---5_rtxt[May should ask Diane Abbott where she stands on freedom of movement.]"
+2351,conclusion,none,conclusion,implicit,implicit,implicit,implicit,defend_the_weak,"flowchart TD
+0---N0[About time UK Government spoke up for Christians being persecuted,]
+0(JOINT)---1
+2(ATTRIBUTION)
+2---2_ltxt[when I suggested]
+2---2_rtxt[we should accept some refugees]
+1(JOINT)---2
+1(JOINT)---3
+4(ELABORATION)
+4---4_ltxt[I was told that religion was the wrong issue]
+4---4_rtxt[to decide this.]
+3(ELABORATION)---4
+3(ELABORATION)---5
+5(JOINT)
+5---5_ltxt[It is not]
+5---5_rtxt[and never has been.]"
+2352,conclusion,premise,conclusion,none,implicit,none,none,defend_the_weak,"flowchart TD
+1(ELABORATION)
+1---1_ltxt[How many hundreds of illegal migrants are coming in]
+1---1_rtxt[that we don't know about?]
+0(JOINT)---1
+0---M0[These are just the ones that got caught.]"
+2353,conclusion,conclusion,conclusion,none,none,none,none,wicked_fairness,"flowchart TD
+1(BACKGROUND)
+1---1_ltxt[""If you are a genuine asylum seeker]
+1---1_rtxt[why have you not sought asylum in the first safe country that you arrived in?""]
+0(JOINT)---1
+0(JOINT)---2
+2(ATTRIBUTION)
+2---2_ltxt[Home Secretary Sajid Javid questions]
+2---2_rtxt[whether migrants making risky journeys across the English Channel are genuine asylum seekers]"
+2355,conclusion,conclusion,conclusion,none,implicit,none,implicit,defend_the_weak,"flowchart TD
+1---N1[The Brexit Party will reduce annual immigration]
+1(JOINT)---2
+2(MANNER-MEANS)
+2---2_ltxt[and address wage stagnation and the skills gap]
+2---2_rtxt[by introducing a fair points-based system that is blind to ethnic origin.]
+0(JOINT)---1
+0(JOINT)---3
+3---N3[Read and sign our Contract with The People here:]
+3(ELABORATION)---4
+4(JOINT)
+4---4_ltxt[#ITVLeadersDebate]
+4---4_rtxt[#ITVDebate]"
+2358,conclusion,conclusion,conclusion,implicit,none,implicit,none,defend_the_weak,"flowchart TD
+1(JOINT)
+1---1_ltxt[Devastating critique of Govts immigration plans by highly respected Lord Green of Migration Watch.]
+1---1_rtxt[More Brexit Betryal by this Remain Govt.]
+0(JOINT)---1
+0(JOINT)---2
+3(CONTRAST)
+3---3_ltxt[Immigration will rise]
+3---3_rtxt[not fall]
+2(JOINT)---3
+2---M2[& low paid British workers will see no real wage growth.]"
+2360,none,none,none,implicit,implicit,implicit,implicit,wicked_fairness,"flowchart TD
+1(EVALUATION)
+1---1_ltxt[.@UKIP has abandoned the Australian-style points system for immigration.]
+1---1_rtxt[It is not tough enough.]
+0(ELABORATION)---1
+0(ELABORATION)---2
+2---N2[The UK needs time-limited work visas for scarce skills]
+2(JOINT)---3
+3(ENABLEMENT)
+3---3_ltxt[while we train our own young people]
+3---3_rtxt[to fill the skills gaps created under Blair/Brown/Cameron/May.]"
+2363,conclusion,conclusion,conclusion,implicit,implicit,implicit,implicit,wicked_fairness,"flowchart TD
+0---N0[Uncontrolled, mass immigration puts too much pressure on the NHS.]
+0(BACKGROUND)---1
+1(ELABORATION)
+1---1_ltxt[Protecting the health service means reining in rapid UK population growth with a large cut in immigration]
+1---1_rtxt[#GeneralElection19]"
+2364,premise,conclusion,premise,implicit,none,implicit,none,wicked_fairness,"flowchart TD
+1---N1[We are a generous, welcoming country with a strong sense of fairness.]
+1(CONTRAST)---2
+2---N2[But too many people exploit our goodwill.]
+2(CONTRAST)---3
+3---N3[We need more tools]
+3(ENABLEMENT)---4
+4(JOINT)
+4---4_ltxt[to tackle illegal entry, punish people smugglers]
+4---4_rtxt[& to support those that genuinely need protection.]
+0(EXPLANATION)---1
+0---M0[I welcome the new immigration plans.]"
+2371,none,none,none,implicit,none,implicit,implicit,hidden_motives,"flowchart TD
+1(JOINT)
+1---1_ltxt[Our landmark #BordersBill passed by MPs yesterday will bring about the fundamental change needed to control illegal migration.]
+1---1_rtxt[I won't be deterred from doing what is right by the British people 'From my speech''']
+0(BACKGROUND)---1
+0---M0[#NewPlanForImmigration]"
+2406,premise,premise,premise,none,implicit,implicit,implicit,distrust_experts,"flowchart TD
+1---N1[I'm delighted that the #BordersBill, which will break the deadly business model of the people-smugglers, has passed in the House of Commons just now.]
+1(JOINT)---2
+2(ENABLEMENT)
+2---2_ltxt[It will deliver a new, firm but fair asylum system]
+2---2_rtxt[to deter illegal migration.]
+0(TEXTUALORGANIZATION)---1
+0---M0[#NewPlanForImmigration']"
+2424,none,none,none,implicit,implicit,implicit,implicit,time_will_tell,"flowchart TD
+0---N0[Our firm but fair Borders Bill is back in the Commons today.]
+0(ELABORATION)---1
+1---N1[It will help minimise delays in our immigration system]
+1(MANNER-MEANS)---2
+2(ELABORATION)
+2---2_ltxt[by preventing repeated appeals in cases]
+2---2_rtxt[the courts have ruled to be without merit.]"
+2439,conclusion,premise,conclusion,none,implicit,none,implicit,time_will_tell,"flowchart TD
+0---N0[Our landmark Borders Bill will make illegal migration no longer worth the risk.]
+0(BACKGROUND)---1
+1---N1[As it makes its way through Parliament,]
+1(BACKGROUND)---2
+2(ENABLEMENT)
+2---2_ltxt[we're looking at every option]
+2---2_rtxt[to stop people dying at the hands of the people smugglers.]"
+2455,conclusion,conclusion,premise,implicit,implicit,implicit,implicit,time_will_tell,"flowchart TD
+1---N1[We're ending the use of insecure ID cards for entry into the UK]
+1(JOINT)---2
+3---N3[to strengthen our border]
+3(JOINT)---4
+4(ELABORATION)
+4---4_ltxt[and deliver on the people's priority]
+4---4_rtxt[to take back control of our immigration system.]
+2(JOINT)---3
+2(JOINT)---5
+5(JOINT)
+5---5_ltxt[Firm on those who seek to abuse the system.]
+5---5_rtxt[Fair on those who play by the rules.]
+0(BACKGROUND)---1
+0---M0[#NewPlanForImmigration]"
+2459,none,none,none,implicit,none,implicit,none,time_will_tell,"flowchart TD
+0---N0[Access to the UK's asylum system should be based on need, not the ability to pay people smugglers.]
+0(EXPLANATION)---1
+1(ENABLEMENT)
+1---1_ltxt[That's why I'm introducing the Borders Bill to Parliament today.]
+1---1_rtxt[We're creating a fairer system for those in genuine need & for British taxpayers ''']"
+2463,none,none,none,implicit,implicit,implicit,implicit,time_will_tell,"flowchart TD
+1---N1[Tomorrow our landmark Borders Bill will be introduced to Parliament,]
+1(ELABORATION)---2
+2(ELABORATION)
+2---2_ltxt[setting out an asylum system based on genuine need]
+2---2_rtxt[that is fair, but firm.]
+0(ENABLEMENT)---1
+0---M0[Learn more about why we need a #NewPlanForImmigration]"
+2469,none,none,none,implicit,implicit,implicit,implicit,time_will_tell,"flowchart TD
+0---N0[Enough is enough.]
+0(BACKGROUND)---1
+2---N2[Next week we'll introduce the Borders Bill]
+2(ENABLEMENT)---3
+4(ELABORATION)
+4---4_ltxt[to go after these gangs]
+4---4_rtxt[exploiting people]
+3(JOINT)---4
+3(JOINT)---5
+5(ELABORATION)
+5---5_ltxt[& deter illegal entry with tougher criminal offences for those]
+5---5_rtxt[attempting to enter the UK illegally.]
+1(MANNER-MEANS)---2
+1---M1[Part of our firm but fair #NewPlanForImmigration']"
+2481,none,none,premise,implicit,implicit,implicit,none,hidden_motives,"flowchart TD
+0---N0[The new Graduate Immigration route I've launched today will keep the best and brightest international talent contributing to the UK.]
+0(ELABORATION)---1
+1(ELABORATION)
+1---1_ltxt[This is part of our new points-based immigration system]
+1---1_rtxt[retaining people based on the skills they can offer to the UK.]"
+2492,conclusion,premise,conclusion,implicit,implicit,implicit,implicit,hidden_motives,"flowchart TD
+1(ELABORATION)
+1---1_ltxt[These are the dangerous conditions that criminal gangs are using to facilitate illegal immigration.]
+1---1_rtxt[The man responsible has been sentenced to 2 years and 7 months.]
+0(BACKGROUND)---1
+0(BACKGROUND)---2
+2(JOINT)
+2---2_ltxt[Our #NewPlanForImmigration will break the business model of people smuggling networks]
+2---2_rtxt[and save lives.]"
+2500,conclusion,conclusion,conclusion,implicit,implicit,implicit,implicit,wicked_fairness,"flowchart TD
+1---N1[Next month, the Borders Bill enters Parliament.]
+1(BACKGROUND)---2
+3(ENABLEMENT)
+3---3_ltxt[We must act now]
+3---3_rtxt[to stop illegal migration.]
+2(JOINT)---3
+2---M2[We must break the cruel business of the gangs who treat people like commodities.]
+0(SUMMARY)---1
+0---M0[This is what the #NewPlanForImmigration will deliver.]"
+2524,conclusion,conclusion,TBD,none,none,implicit,none,wicked_fairness,"flowchart TD
+0---N0[A people smuggling gang 'ringleader' has been jailed for eight-and-a-half years thanks to the work of Immigration Enforcement.]
+0(BACKGROUND)---1
+2(ELABORATION)
+2---2_ltxt[We're committed to bringing the ruthless criminal gangs]
+2---2_rtxt[exploiting migrants]
+1(SAME-UNIT)---2
+1---M1[to justice '""]"
+2532,conclusion,premise,conclusion,implicit,implicit,implicit,implicit,hidden_motives,"flowchart TD
+2(ENABLEMENT)
+2---2_ltxt[Today I've signed a ground-breaking new agreement with India]
+2---2_rtxt[to deliver a fair but firm New Plan for Immigration.]
+1(ELABORATION)---2
+1---M1[It will:]
+0(ELABORATION)---1
+0(ELABORATION)---3
+3(JOINT)
+3---3_ltxt['""'Attract the best & brightest talent to the UK via our new points-based immigration system.]
+3---3_rtxt[¡,Increase and speed up removals of illegal migrants.' '®']"
+2539,conclusion,conclusion,conclusion,implicit,implicit,implicit,implicit,wicked_fairness,"flowchart TD
+0---N0[The UK's outdated asylum system is being exploited by people smugglers.]
+0(BACKGROUND)---1
+1(EXPLANATION)
+1---1_ltxt[Our New Plan for Immigration will stop this abuse.]
+1---1_rtxt[Take our survey today:]"
+2543,conclusion,premise,conclusion,none,none,implicit,none,hidden_motives,"flowchart TD
+0---N0[Yesterday I hosted my G6 counterparts from '«'·'''®''''', & '','' for a virtual summit on tackling security threats & illegal migration.]
+0(BACKGROUND)---1
+1(JOINT)
+1---1_ltxt[By working together, we can help save lives]
+1---1_rtxt[and break the business model of the gangs & people smugglers responsible for perilous illegal journeys.]"
+2553,conclusion,conclusion,conclusion,implicit,implicit,implicit,implicit,hidden_motives,empty
+2560,conclusion,none,conclusion,implicit,none,implicit,none,wicked_fairness,"flowchart TD
+0(ELABORATION)
+0---0_ltxt[Access to the UK's asylum system should be based on need, not on the ability]
+0---0_rtxt[to pay people smugglers ''']"
+2566,premise,premise,premise,implicit,implicit,implicit,implicit,hidden_motives,"flowchart TD
+0---N0[EXPLAINER:]
+0(BACKGROUND)---1
+1---N1[Illegal migration is big business.]
+1(EXPLANATION)---2
+2(JOINT)
+2---2_ltxt[Our #BordersBill can now help to break the business model of ruthless people smugglers]
+2---2_rtxt[and help protect the world's most vulnerable.,]"
+2585,conclusion,conclusion,conclusion,implicit,implicit,implicit,implicit,wicked_fairness,"flowchart TD
+2---N2["" Our #BordersBill has PASSED]
+2(ATTRIBUTION)---3
+3---N3[It will deliver an asylum system that is firm but fair,]
+3(JOINT)---4
+4(JOINT)
+4---4_ltxt[allowing us to deter illegal migration]
+4---4_rtxt[and help those most in need.]
+1(TEXTUALORGANIZATION)---2
+1---M1[The details ''€°]
+0(JOINT)---1
+0---M0[#NewPlanForImmigration]"
+2586,conclusion,conclusion,conclusion,implicit,implicit,implicit,implicit,wicked_fairness,"flowchart TD
+1(ELABORATION)
+1---1_ltxt[Access to the UK's asylum system should be based on need, not ability]
+1---1_rtxt[to pay people smugglers.]
+0(BACKGROUND)---1
+0---M0[Read my piece on 70th anniversary of the UN Refugee Convention being signed.]"
+2587,conclusion,conclusion,conclusion,none,implicit,implicit,implicit,wicked_fairness,"flowchart TD
+2(JOINT)
+2---2_ltxt[We have a long-standing history of being open to the world,]
+2---2_rtxt[supporting those in need.]
+1(JOINT)---2
+1---M1[And this, we will continue to do.]
+0(BACKGROUND)---1
+0(BACKGROUND)---3
+3---N3[@CPhilpOfficial has written for @politicshome today]
+3(ATTRIBUTION)---4
+4(JOINT)
+4---4_ltxt[celebrating #RefugeeWeek]
+4---4_rtxt[& the contribution refugees have made to the UK ,]"
+2620,premise,conclusion,premise,none,none,implicit,none,hidden_motives,"flowchart TD
+0(BACKGROUND)
+0---0_ltxt[Thanks to our world-leading safe and legal routes, we have been resettling refugees in need, who fled the conflict in Syria, from countries including Iraq and Lebanon.]
+0---0_rtxt[We will continue our proud record with our #NewPlanforImmigration]"
+2636,premise,premise,premise,implicit,none,implicit,implicit,scapegoat,"flowchart TD
+1(JOINT)
+1---1_ltxt[It will break the business model of people-smugglers who endanger lives like these.]
+1---1_rtxt[It will toughen sentences for arranging illegal entry to the UK.]
+0(EXPLANATION)---1
+0(EXPLANATION)---2
+2(EXPLANATION)
+2---2_ltxt[This is why we're introducing the New Plan for Immigration]
+2---2_rtxt[€ ,]"
+2655,none,none,none,none,implicit,none,implicit,time_will_tell,"flowchart TD
+1(BACKGROUND)
+1---1_ltxt[""For too long our justice system has been gamed...]
+1---1_rtxt[enough is enough""]
+0(BACKGROUND)---1
+0---M0[Home Secretary Priti Patel is outlining the government's plan for a ""faster and fairer"" asylum system]"
+2665,premise,premise,premise,implicit,implicit,implicit,implicit,scapegoat,"flowchart TD
+1(TEMPORAL)
+1---1_ltxt[The Tories decimated our armed forces,]
+1---1_rtxt[now they are filling up the empty barracks with illegal migrants.]
+0(BACKGROUND)---1
+0(BACKGROUND)---2
+2---N2[Is this what taking back control looks like?]
+2(JOINT)---3
+3(ENABLEMENT)
+3---3_ltxt[Why not use them]
+3---3_rtxt[to house the UK's 6000 homeless veterans?]"
+2738,premise,none,premise,none,implicit,none,implicit,hidden_motives,"flowchart TD
+1(ENABLEMENT)
+1---1_ltxt[Media vultures currently trying to aggravate #DominicCummings]
+1---1_rtxt[in order to get a reaction.]
+0(BACKGROUND)---1
+0(BACKGROUND)---2
+2(JOINT)
+2---2_ltxt[Why have they not been this passionate on illegal immigrants flooding the country and potentially importing the virus?]
+2---2_rtxt[Or Labour politicians flagrantly flouting the lockdown?]"
+2741,none,none,none,none,none,implicit,none,hidden_motives,"flowchart TD
+1(CONTRAST)
+1---1_ltxt[Staggering how much attention Dominic Cummings travelling to #Durham has received from the MSM.]
+1---1_rtxt[Not a peep from them about illegal immigration, however...]
+0(TEXTUALORGANIZATION)---1
+0---M0[#Dominicsgoing]"
+2745,conclusion,conclusion,conclusion,implicit,none,implicit,none,defend_the_weak,empty
+2751,premise,premise,conclusion,none,implicit,none,none,hidden_motives,"flowchart TD
+1---N1[Immigration minister Chris Philp (who nobody has ever even heard of) had meetings in Paris today]
+1(JOINT)---2
+2---N2[and says]
+2(ATTRIBUTION)---3
+3(ELABORATION)
+3---3_ltxt[we now have an action plan]
+3---3_rtxt[that will counter illegal crossings.]
+0(EVALUATION)---1
+0---M0[Don't hold your breath folks.]"
+2754,premise,conclusion,premise,none,implicit,none,implicit,defend_the_weak,"flowchart TD
+0---N0[Official figures show that approaching 500 illegal immigrants crossed the Channel this week.]
+0(ELABORATION)---1
+3(JOINT)
+3---3_ltxt[I predicted an invasion]
+3---3_rtxt[and it is happening.]
+2(JOINT)---3
+2(JOINT)---4
+4(ATTRIBUTION)
+4---4_ltxt[Government say]
+4---4_rtxt[they will return many.]
+1(EVALUATION)---2
+1---M1[I don't believe a word of it.]"
+2755,conclusion,conclusion,premise,implicit,implicit,implicit,implicit,defend_the_weak,"flowchart TD
+0---N0[A record]
+0(BACKGROUND)---1
+3(ELABORATION)
+3---3_ltxt[167 illegal migrants have come into Dover today,]
+3---3_rtxt[including 60 in one boat.]
+2(BACKGROUND)---3
+2(BACKGROUND)---4
+4(JOINT)
+4---4_ltxt[I have warned about the invasion]
+4---4_rtxt[and now it is happening.]
+1(BACKGROUND)---2
+1(BACKGROUND)---5
+5(CONTRAST)
+5---5_ltxt[People will be very angry with a government that pretends]
+5---5_rtxt[but never acts.]"
+2771,premise,premise,premise,none,implicit,none,implicit,defend_the_weak,"flowchart TD
+2(BACKGROUND)
+2---2_ltxt[As I predicted weeks ago,]
+2---2_rtxt[Pett Level is a favoured landing beach for migrants.]
+1(JOINT)---2
+1(JOINT)---3
+3(JOINT)
+3---3_ltxt[This exclusive video from Saturday shows a group being caught.]
+3---3_rtxt[Many more are not.]
+0(EVALUATION)---1
+0---M0[This is proof that the sneering media were wrong to attack me for my film.]"
+2791,premise,none,premise,implicit,implicit,none,implicit,defend_the_weak,"flowchart TD
+0(JOINT)
+0---0_ltxt[It is only a matter of time before there is a mid-channel collision]
+0---0_rtxt[and people lose their lives.]"
+2796,none,none,conclusion,none,implicit,none,implicit,defend_the_weak,"flowchart TD
+0---N0[On a day of national celebration]
+0(BACKGROUND)---1
+1---N1[we are being humiliated on the South Coast.]
+1(ELABORATION)---2
+4(BACKGROUND)
+4---4_ltxt[As I have predicted,]
+4---4_rtxt[a record number of illegal immigrants have been taken into Dover.]
+3(JOINT)---4
+3---M3[All along the coast there are many more.]
+2(EVALUATION)---3
+2---M2[This is the beginning of an invasion.]"
+2801,none,none,mone,none,none,none,none,defend_the_weak,"flowchart TD
+0---N0[The illegal migrant scandal is bigger than anybody realises.]
+0(BACKGROUND)---1
+2(JOINT)
+2---2_ltxt[Our government should stop the boats from coming,]
+2---2_rtxt[not help them to shore.]
+1(EVALUATION)---2
+1(EVALUATION)---3
+3(BACKGROUND)
+3---3_ltxt[Mark my words]
+3---3_rtxt[this issue is not going away.]"
+2804,none,none,none,none,none,none,none,defend_the_weak,"flowchart TD
+0---N0[Rich hypocrisy from @benandjerrys]
+0(ELABORATION)---1
+1---N1[that just wants cheaper labour costs]
+1(JOINT)---2
+2(JOINT)
+2---2_ltxt[and is clearly happy to see vile people smuggling into conditions of modern slavery,]
+2---2_rtxt[as well as putting illegal immigrant in harms way on dangerous journey across channel.]"
+2805,conclusion,premise,conclusion,none,implicit,implicit,implicit,scapegoat,"flowchart TD
+0---N0[I hear @patel4witham]
+0(BACKGROUND)---1
+1(TOPIC-COMMENT)
+1---1_ltxt[is being actively stopped from policing borders properly by cabinet colleagues fearful of seeming uncaring.]
+1---1_rtxt[How have we got into a position where upholding our own immigration laws & treating everyone equally who wishes to come here is somehow wrong?]"
+2808,premise,conclusion,premise,implicit,implicit,implicit,implicit,time_will_tell,"flowchart TD
+1(CONTRAST)
+1---1_ltxt[We've doubled the amount we spend on taking care of asylum seekers in the last 5 years - now up to £1 BILLION a year,]
+1---1_rtxt[yet the ONS reported today that the number of homeless deaths in the UK is the highest since records began.]
+0(EVALUATION)---1
+0---M0[Does this seem right to you?]"
+2811,none,none,none,implicit,none,implicit,none,wicked_fairness,"flowchart TD
+2---N2[If our facilities are so unacceptable,]
+2(BACKGROUND)---3
+3(ENABLEMENT)
+3---3_ltxt[maybe they should have considered seeking asylum in one of the numerous safe countries they passed through]
+3---3_rtxt[to get here?]
+1(JOINT)---2
+1---M1[Why should they be given better conditions than our servicemen and women?]
+0(EXPLANATION)---1
+0---M0[#Penally]"
+2820,conclusion,conclusion,conclusion,none,implicit,implicit,implicit,scapegoat,"flowchart TD
+1---N1[It's typical of the #BBC to label people who don't want Wales to be turned into a refugee camp 'extremist'.]
+1(JOINT)---2
+2(BACKGROUND)
+2---2_ltxt[How many economic migrants do we need to accept]
+2---2_rtxt[before they are satisfied?]
+0(EXPLANATION)---1
+0---M0[#DefundTheBBC]"
+2872,conclusion,conclusion,conclusion,none,none,none,none,hidden_motives,empty
+2907,conclusion,conclusion,conclusion,implicit,implicit,implicit,implicit,wicked_fairness,"flowchart TD
+0---N0[Oh dear, @benandjerrysUK.]
+0(BACKGROUND)---1
+1---N1[Your company was recently caught exploiting migrant workers.]
+1(BACKGROUND)---2
+2(JOINT)
+2---2_ltxt[Is this why you want more illegal migrants in the UK?]
+2---2_rtxt[To exploit them too?]"
+2916,none,none,none,none,none,implicit,none,wicked_fairness,"flowchart TD
+0---N0[Innocent]
+0(BACKGROUND)---1
+2(JOINT)
+2---2_ltxt[Seven-year-old Emily Jones was stabbed to death in a park in Bolton,]
+2---2_rtxt[and Albanian immigrant Eltiona Skana has been charged.]
+1(TOPIC-COMMENT)---2
+1---M1[Why isn't this story on the front page of every newspaper?]"
+2923,conclusion,conclusion,TBD,implicit,implicit,implicit,implicit,hidden_motives,"flowchart TD
+2(BACKGROUND)
+2---2_ltxt[When Prince Charles was tested for #Covid19,]
+2---2_rtxt[the woke-left had an absolute meltdown.]
+1(CAUSE)---2
+1(CAUSE)---3
+4(BACKGROUND)
+4---4_ltxt[Yesterday, 169 testing kits had to be used on illegal migrants]
+4---4_rtxt[after they were intercepted in the channel]
+3(CAUSE)---4
+3---M3[.....complete silence from the same people.]
+0(BACKGROUND)---1
+0---M0[#Hypocrites]"
+2943,premise,premise,premise,implicit,implicit,implicit,implicit,time_will_tell,"flowchart TD
+0---N0[The reason @UKLabour are so against the Government's plans to reduce immigration of people who don't speak English is that this is the Labour voting bloc these days.]
+0(JOINT)---1
+1(BACKGROUND)
+1---1_ltxt[Sorry white working-class -]
+1---1_rtxt[Labour don't care about you.]"
+2944,conclusion,conclusion,conclusion,none,implicit,implicit,implicit,hidden_motives,"flowchart TD
+0---N0[Every time - Johnson & Co find money and homes for them,]
+0(JOINT)---1
+1(JOINT)
+1---1_ltxt[while #homeless Forces veterans and teenagers shiver their nights]
+1---1_rtxt[and lives away in cardboard boxe.]"
+2947,conclusion,conclusion,conclusion,implicit,none,implicit,none,hidden_motives,"flowchart TD
+1---N1[Soft Touch Britain strikes again.]
+1(JOINT)---2
+2(JOINT)
+2---2_ltxt[Any homeless veteran trying to find a bed in an old army barracks would be arrested]
+2---2_rtxt[and thrown out back to rot on the streets.]
+0(BACKGROUND)---1
+0---M0[#keeppayingyourtaxes]"
+2954,none,none,none,implicit,none,implicit,none,hidden_motives,"flowchart TD
+1---N1[So much for Johnson's pre-election pledges to get tough on #immigration.]
+1(EVALUATION)---2
+2(CONDITION)
+2---2_ltxt[Mind you, if anyone is stupid enough to believe a pre-election 'pledge']
+2---2_rtxt[they deserve to be conned.]
+0(CONTRAST)---1
+0---M0[A shame they can't book hotel rooms for homeless veterans though.]"
+2980,premise,premise,premise,implicit,implicit,implicit,implicit,hidden_motives,"flowchart TD
+1(BACKGROUND)
+1---1_ltxt[Turkish police force]
+1---1_rtxt[Syrian refugees to #Greek border at gun-point.]
+0(BACKGROUND)---1
+0---M0[The invasion of Europe is not an accident at any level!]"
+2981,none,none,none,implicit,none,implicit,none,hidden_motives,"flowchart TD
+1(JOINT)
+1---1_ltxt[If we want to protect our precious green spaces]
+1---1_rtxt[and stop concrete covering our countryside,]
+0(BACKGROUND)---1
+0---M0[we must tighten immigration controls.]"
+2996,premise,premise,premise,implicit,implicit,implicit,implicit,wicked_fairness,"flowchart TD
+1---N1[This piece demonstrates the truth of what some of us long argued:]
+1(BACKGROUND)---2
+3(ELABORATION)
+3---3_ltxt[free movement depressed wages in several sectors,]
+3---3_rtxt[including agriculture.]
+2(CONTRAST)---3
+2---M2[But we were dismissed as 'anti-migrant' and 'reactionary'.]
+0(EVALUATION)---1
+0(EVALUATION)---4
+4(CONTRAST)
+4---4_ltxt[Facts may be awkward sometimes.]
+4---4_rtxt[But they're still facts.]"
+3000,premise,premise,premise,none,implicit,implicit,implicit,scapegoat,"flowchart TD
+0---N0[Cut immigration to ease the housing crisis?]
+0(JOINT)---1
+1(BACKGROUND)
+1---1_ltxt[#WorthATry]
+1---1_rtxt[Probably]"
+3003,conclusion,premise,conclusion,implicit,none,implicit,none,hidden_motives,"flowchart TD
+0---N0[Our new partnership with Rwanda shows we can no longer accept the status quo.]
+0(BACKGROUND)---1
+2(JOINT)
+2---2_ltxt[People are dying]
+2---2_rtxt[and the global migration crisis requires us to find new ways to work in partnership.]
+1(EVALUATION)---2
+1(EVALUATION)---3
+3(EVALUATION)
+3---3_ltxt[It will deal a major blow to the evil people smugglers.]
+3---3_rtxt[This is what it means ''']"
+3013,conclusion,conclusion,premise,implicit,implicit,implicit,implicit,hidden_motives,"flowchart TD
+0(JOINT)
+0---0_ltxt[Who is profiting from the global migration crisis]
+0---0_rtxt[and what can be done to help fix it? '']"
+3014,none,none,none,none,implicit,implicit,implicit,hidden_motives,"flowchart TD
+0---N0[I have zero tolerance for abuse of our immigration system.]
+0(BACKGROUND)---1
+1---N1[Under my #NewPlanForImmigration, I want to ensure the British people have confidence in the system,]
+1(ELABORATION)---2
+2(JOINT)
+2---2_ltxt[including stopping those who threaten our national security]
+2---2_rtxt[& push dirty money around our cities.]"
+3020,conclusion,none,conclusion,implicit,implicit,implicit,implicit,wicked_fairness,"flowchart TD
+1---N1[OVER 700 Migrants today.]
+1(JOINT)---2
+2(JOINT)
+2---2_ltxt[YOU will have operations & tests cancelled]
+2---2_rtxt[YOU won't get a pension or elderly care]
+0(EXPLANATION)---1
+0(EXPLANATION)---3
+3(EXPLANATION)
+3---3_ltxt[FACTJoin @UKIP]
+3---3_rtxt[because the Conservatives are killing us.]"
+3025,conclusion,conclusion,conclusion,implicit,implicit,none,implicit,liberty_freedom,"flowchart TD
+0---N0[The UK Independence Party is the ONLY party committed to withdrawing from the:]
+0(BACKGROUND)---1
+2---N2[1951 UN Refugee Convention]
+2(JOINT)---3
+4(JOINT)
+4---4_ltxt[European Convention on Human Rights]
+4---4_rtxt[UN Global Migration Compact]
+3(JOINT)---4
+3---M3[Until this happens]
+1(BACKGROUND)---2
+1---M1[the invasion of illegal immigrants will continue.]"
+3030,none,none,none,implicit,implicit,none,none,defend_the_weak,"flowchart TD
+0(BACKGROUND)
+0---0_ltxt[The Welfare of Armed Forces]
+0---0_rtxt[Veterans must have priority over Immigrants]"
+3033,none,premise,none,none,implicit,implicit,implicit,hidden_motives,"flowchart TD
+1(BACKGROUND)
+1---1_ltxt[Whilst any of the establishment parties remain in power,]
+1---1_rtxt[the boats will continue to land on our shores.]
+0(TEXTUALORGANIZATION)---1
+0(TEXTUALORGANIZATION)---2
+2(JOINT)
+2---2_ltxt[UKIP Chairman @BenWalker]
+2---2_rtxt[FABS]"
+3035,premise,premise,premise,implicit,implicit,none,none,liberty_freedom,"flowchart TD
+0(ELABORATION)
+0---0_ltxt[Independent journalist and former ukip Candidate Steve Laws has been suspended from @Twitter for reporting the truth on illegal immigration!]
+0---0_rtxt[#FreeSpeech #bigtech #censorship]"
+3038,premise,premise,premise,implicit,implicit,implicit,implicit,hidden_motives,"flowchart TD
+0(BACKGROUND)
+0---0_ltxt[Migrants 'are staying in four-star hotel rooms at £125-a-night on the taxpayer']
+0---0_rtxt[as Britons struggle to afford spiralling energy bills amid cost of living chaos']"
+3040,conclusion,premise,conclusion,none,none,implicit,implicit,wicked_fairness,"flowchart TD
+0(COMPARISON)
+0---0_ltxt[Boris Johnson cares more about sending support packages to Ukraine]
+0---0_rtxt[than he does about stopping the migrant boats at Dover.]"
+3041,premise,none,premise,none,implicit,implicit,implicit,defend_the_weak,"flowchart TD
+2---N2[As I suspected.]
+2(ELABORATION)---3
+3(JOINT)
+3---3_ltxt[Almost 4/10 illegally crossing the Channel are Albanian.]
+3---3_rtxt[Just 5.7% Syrian.]
+1(JOINT)---2
+1(JOINT)---4
+4(EXPLANATION)
+4---4_ltxt[We are being misled.]
+4---4_rtxt[The largest group is from a peaceful NATO member joining the EU.]
+0(EVALUATION)---1
+0(EVALUATION)---5
+5(BACKGROUND)
+5---5_ltxt[Shocking leaks revealed by @TiceRichard.]
+5---5_rtxt[Why isn't this data published?]"
+3042,premise,premise,premise,implicit,none,implicit,implicit,hidden_motives,"flowchart TD
+0---N0[Sadly it looks as though the Rwanda policy is about to rebound on the government.]
+0(ELABORATION)---1
+1---N1[Several legal challenges are already underway.]
+1(JOINT)---2
+3(JOINT)
+3---3_ltxt[Unless Brexit is completed]
+3---3_rtxt[and we leave the ECHR,]
+2(CONDITION)---3
+2(CONDITION)---4
+4(JOINT)
+4---4_ltxt[100,000 migrants will arrive in 2022]
+4---4_rtxt[and the Red Wall will collapse.]"
+3047,none,none,TBD,implicit,implicit,implicit,none,natural_traditional_is_better,"flowchart TD
+2(ATTRIBUTION)
+2---2_ltxt[Lots of tweets saying]
+2---2_rtxt[I made up a story about migrants throwing their phones into the Channel yesterday.]
+1(BACKGROUND)---2
+1---M1[Well here is the exclusive footage€]
+0(TOPIC-COMMENT)---1
+0---M0[Why would legitimate refugees with nothing to hide throw their mobile phones into the sea?]"
+3057,premise,conclusion,premise,none,implicit,none,implicit,hidden_motives,"flowchart TD
+0(TOPIC-COMMENT)
+0---0_ltxt[Today I witnessed 3 migrants throw their phones overboard into the Channel.]
+0---0_rtxt[Why would legitimate refugees want to throw their mobile phones into the sea?]"
+3059,conclusion,conclusion,conclusion,implicit,implicit,implicit,implicit,defend_the_weak,"flowchart TD
+0(JOINT)
+0---0_ltxt[This is a disgrace.]
+0---0_rtxt[The Home Office do not want us to know the truth.]"
+3069,conclusion,conclusion,conclusion,none,implicit,none,implicit,defend_the_weak,"flowchart TD
+0---N0[BREAKING EXCLUSIVE:]
+0(BACKGROUND)---1
+1(ELABORATION)
+1---1_ltxt[I expose that 4 in 10 Channel migrants from peaceful Albania, not war-torn states.]
+1---1_rtxt[We have been deeply misled.]"
+3070,premise,premise,premise,implicit,implicit,implicit,implicit,defend_the_weak,empty
+3072,none,none,none,none,implicit,none,implicit,hidden_motives,"flowchart TD
+0---N0[ILLEGAL MIGRANTS:]
+0(BACKGROUND)---1
+1(EVALUATION)
+1---1_ltxt[Another day, another large group of young men arrive, another fat profit for vile smugglers, another multi million liability for us British taxpayers.]
+1---1_rtxt[Enough is enough.]"
+3079,none,none,premise,implicit,implicit,implicit,implicit,time_will_tell,"flowchart TD
+1(ELABORATION)
+1---1_ltxt[Civil servants working at home has led to collapse in productivity:]
+1---1_rtxt[delays in passports, driving licences, immigration, healthcare etc etc.]
+0(JOINT)---1
+0(JOINT)---2
+2---N2[Get back to office]
+2(JOINT)---3
+3(JOINT)
+3---3_ltxt[& perform,]
+3---3_rtxt[or get out of the job.]"
+3083,conclusion,conclusion,conclusion,implicit,none,implicit,none,time_will_tell,"flowchart TD
+1---N1[""They would like open borders and the dilution of any meaningful concept of nationhood.]
+1(ELABORATION)---2
+2(BACKGROUND)
+2---2_ltxt[British interests mean nothing to them]
+2---2_rtxt[as they cling to their globalist agenda.""]
+0(TEXTUALORGANIZATION)---1
+0---M0[My latest @MailOnline on Britain's open-borders coalition and asylum system reform.]"
+3084,conclusion,premise,conclusion,implicit,implicit,implicit,implicit,time_will_tell,"flowchart TD
+1---N1[It's revealing that lying about his asylum claim in 2015 was insufficient to remove of Emad Al Swealmeen from the UK.]
+1(ELABORATION)---2
+2(JOINT)
+2---2_ltxt[He remained]
+2---2_rtxt[and detonated a bomb on Remembrance Sunday last year.]
+0(EVALUATION)---1
+0(EVALUATION)---3
+3(CONDITION)
+3---3_ltxt[It begs the question.]
+3---3_rtxt[If making false claims is not sufficient to remove people - what is?]"
+3088,premise,premise,premise,implicit,implicit,implicit,implicit,hidden_motives,"flowchart TD
+0---N0[Join me]
+0(BACKGROUND)---1
+1---N1[Today 10am for my Tice Talk show on @talkRADIO:]
+1(ELABORATION)---2
+2(ELABORATION)
+2---2_ltxt['’Sunday Sermon:]
+2---2_rtxt[Furlough rip-offs'’Blackmail and whips'’Govt hiding immigration nos'’ Ukraine and much more!]"
+3090,premise,premise,premise,implicit,implicit,implicit,implicit,time_will_tell,"flowchart TD
+0---N0[Police brutality in Spain.]
+0(ELABORATION)---1
+2---N2[Police brutally assault in innocent woman.]
+2(JOINT)---3
+3(TEMPORAL)
+3---3_ltxt[Illegal immigrants welcomed by Spanish authorities,]
+3---3_rtxt[while their police viciously assault Spanish people.]
+1(JOINT)---2
+1---M1[The EU remain silent.]"
+3095,conclusion,conclusion,conclusion,implicit,implicit,implicit,implicit,hidden_motives,"flowchart TD
+0---N0[Are you happy supporting a party in favour of massive immigration and of handling over Command & Control of our Armed Forces]
+0(JOINT)---1
+1(ELABORATION)
+1---1_ltxt[and who criminalise parents of six year olds]
+1---1_rtxt[who try to stop their child being taught Transgenderism?]"
+3099,conclusion,conclusion,conclusion,implicit,implicit,implicit,implicit,wicked_fairness,"flowchart TD
+1---N1[Long interview I did today with #redpilled counter-jihadist Dionne Miller.]
+1(BACKGROUND)---2
+2---N2[Watch it]
+2(JOINT)---3
+3(BACKGROUND)
+3---3_ltxt[& please repost]
+3---3_rtxt[before TheirTube takes it down!]
+0(EXPLANATION)---1
+0(EXPLANATION)---4
+4---N4[""I haven't gone away, you know.....""]
+4(ELABORATION)---5
+6---N6[#immigration]
+6(JOINT)---7
+7(JOINT)
+7---7_ltxt[#GreatReplacement]
+7---7_rtxt[#grooming]
+5(JOINT)---6
+5---M5[#KalergiPlan]"
+3101,conclusion,conclusion,conclusion,implicit,implicit,implicit,implicit,scapegoat,"flowchart TD
+2(CONDITION)
+2---2_ltxt[Even if #BorisJohnson does deliver #Brexit,]
+2---2_rtxt[people who voted for our old Britain back are going to be VERY disappointed.]
+1(BACKGROUND)---2
+1---M1[More immigration, LGBTQ+ force fed to children, destruction of green belt, privatisation, war on free speech.]
+0(BACKGROUND)---1
+0---M0[#stabbedintheback]"
+3104,none,none,none,none,none,none,none,hidden_motives,empty
+3108,conclusion,conclusion,conclusion,implicit,none,implicit,none,time_will_tell,"flowchart TD
+2(ENABLEMENT)
+2---2_ltxt[Funny thing - THEY can put gruesome photos on cigarette packs]
+2---2_rtxt[to warn us of the dangers of smoking,]
+1(CONTRAST)---2
+1---M1[but WE can't pass on photos that warn of the dangers of #immigration, #Islamisation & the takfiri hatred spread by their Saudi cronies.]
+0(BACKGROUND)---1
+0---M0[#MarineLePen]"
+3113,none,none,none,implicit,none,implicit,none,hidden_motives,"flowchart TD
+0(CONTRAST)
+0---0_ltxt[The problem isn't just #Brexit or #immigration or #Islamisation.]
+0---0_rtxt[The corporate elite are screwing us all in other ways too:]"
+3117,none,none,none,none,none,none,none,defend_the_weak,"flowchart TD
+1(CONTRAST)
+1---1_ltxt[The key difference between me & #TommyRobinson - he's happy that they're here,]
+1---1_rtxt[but wants them to accept LGBTQ+ brainwashing]
+0(BACKGROUND)---1
+0(BACKGROUND)---2
+2---N2[I believe]
+2(ATTRIBUTION)---3
+4(ELABORATION)
+4---4_ltxt[mass immigration was a ghastly error]
+4---4_rtxt[that should be reversed,]
+3(CONTRAST)---4
+3---M3[but support them on this stand for tradition & decency.]"
+3124,none,premise,none,implicit,none,none,none,liberty_freedom,"flowchart TD
+0---N0[Labour have passed a motion to...]
+0(BACKGROUND)---1
+1---N1[a Scrap all immigration controls]
+1(JOINT)---2
+2---N2[a Campaign for free movement]
+2(JOINT)---3
+4---N4[a Give non-UK citizens the right to vote]
+4(JOINT)---5
+5(ELABORATION)
+5---5_ltxt[€Migrant boats =]
+5---5_rtxt[Labour votes]
+3(SAME-UNIT)---4
+3---M3[springs to mind...]"
+3138,conclusion,conclusion,conclusion,none,implicit,implicit,implicit,scapegoat,"flowchart TD
+0---N0[EXCLUSIVE:]
+0(BACKGROUND)---1
+1(JOINT)
+1---1_ltxt[Citizen journalist ‚Ç ̈Àúwho exposed Migrant Crisis' in bid to become MP @UKIP @Steve_Laws_]
+1---1_rtxt[via @PoliticaliteUK]"
+3149,conclusion,premise,conclusion,implicit,implicit,implicit,implicit,scapegoat,"flowchart TD
+1---N1[@GoodwinMJ confirms my prediction at the time of #Brexit -]
+1(BACKGROUND)---2
+2---N2[the people voted to stop #Immigration,]
+2(CONTRAST)---3
+3(ELABORATION)
+3---3_ltxt[but the Tories have simply replaced Poles with Pakistanis]
+3---3_rtxt[(as Nigel Farage always wanted).]
+0(TEXTUALORGANIZATION)---1
+0---M0[#neoconned]"
+3150,premise,premise,premise,implicit,none,implicit,implicit,time_will_tell,"flowchart TD
+0---N0[@Anna_Soubry]
+0(BACKGROUND)---1
+2---N2[If you were upset by James Goddard,]
+2(CONDITION)---3
+4(BACKGROUND)
+4---4_ltxt[wait til you meet the refugees of the #AzovBatallion]
+4---4_rtxt[when they start destabilising your precious multicult.]
+3(JOINT)---4
+3---M3[And, as Mr Lenin sort of predicted, ""turn the war into civil war"".]
+1(BACKGROUND)---2
+1---M1[CarefulWhatYouWishFor]"
+3152,none,none,none,implicit,implicit,implicit,implicit,scapegoat,"flowchart TD
+1(ELABORATION)
+1---1_ltxt[Within a month, the West will have taken on at least half a million young male Ukrainian refugees from the war]
+1---1_rtxt[Nato made inevitable.]
+0(JOINT)---1
+0(JOINT)---2
+3(CONDITION)
+3---3_ltxt[If you think I'M a racist extremist,]
+3---3_rtxt[wait til you meet these lads!]
+2(BACKGROUND)---3
+2---M2[What could possibly go wrong in #multicultral Europe?]"
+3177,premise,premise,conclusion,implicit,implicit,implicit,implicit,scapegoat,"flowchart TD
+3---N3[If you think that the new #HighwayCode is the worst example yet]
+3(ELABORATION)---4
+4---N4[of what happens]
+4(BACKGROUND)---5
+5(JOINT)
+5---5_ltxt[when red-green fanatics take over rhe asylum,]
+5---5_rtxt[wait til you get your obscene energy bills come April.]
+2(EVALUATION)---3
+2---M2[And that's only the start.]
+1(BACKGROUND)---2
+1---M1[Their aim is complete deindustrialisation.]
+0(TEXTUALORGANIZATION)---1
+0(TEXTUALORGANIZATION)---6
+6(ELABORATION)
+6---6_ltxt[MorgenthauPlan]
+6---6_rtxt[#GreatReset]"
+3182,none,none,TBD,implicit,implicit,implicit,none,time_will_tell,"flowchart TD
+3(BACKGROUND)
+3---3_ltxt[As I said]
+3---3_rtxt[would happen,]
+2(BACKGROUND)---3
+2---M2[a Tory-directed Brexit was always going to replace Poles & Hungarians with Indians & Africans.]
+1(BACKGROUND)---2
+1(BACKGROUND)---4
+4(BACKGROUND)
+4---4_ltxt[The wishes of the people count for nothing]
+4---4_rtxt[when capitalists & their puppets make the rules.]
+0(EVALUATION)---1
+0---M0[Yet another Tory #Immigration betrayal.]"
+3186,none,premise,none,none,implicit,none,implicit,defend_the_weak,"flowchart TD
+1---N1[We voted to control our Borders.]
+1(ELABORATION)---2
+2(JOINT)
+2---2_ltxt[For six years the Tories turned a bling eye to mass illegal immigration,]
+2---2_rtxt[allowed mass immigration from Honk Kong and Ukraine]
+0(JOINT)---1
+0(JOINT)---3
+3(CAUSE)
+3---3_ltxt[Now because two politicians in power for the very same six years want to be PM,]
+3---3_rtxt[they both promise to control our Borders.]"
+3187,none,none,none,implicit,none,none,none,defend_the_weak,"flowchart TD
+1(JOINT)
+1---1_ltxt[Mass immigration is driving us into an ever greater housing crisis]
+1---1_rtxt[while hard working people struggle to build a home for their families.]
+0(BACKGROUND)---1
+0(BACKGROUND)---2
+2(BACKGROUND)
+2---2_ltxt[What does this say about the priorities of those at the top...?]
+2---2_rtxt[°]"
+3199,none,none,none,implicit,none,implicit,none,defend_the_weak,"flowchart TD
+1---N1[Our cities have seen rapid and momentous change in the last two decades.]
+1(BACKGROUND)---2
+2(CONTRAST)
+2---2_ltxt[The public never asked for mass, uncontrolled immigration,]
+2---2_rtxt[but the politicians have forced it on the country anyway...]
+0(EXPLANATION)---1
+0---M0[°]"
+3200,premise,premise,premise,none,none,none,none,time_will_tell,empty
+3202,none,none,none,none,none,implicit,none,time_will_tell,"flowchart TD
+0(CONTRAST)
+0---0_ltxt[The government promised that its post-Brexit immigration system would reduce overall immigration levels and deliver ""firmer"" border control.]
+0---0_rtxt[Yet the opposite has happened!]"
+3205,premise,conclusion,premise,none,none,none,implicit,defend_the_weak,empty
+3211,none,none,none,none,none,none,none,time_will_tell,"flowchart TD
+0(JOINT)
+0---0_ltxt[The gap between what the public want on immigration and what the political class are doing is growing dangerously wide...]
+0---0_rtxt[We will continue to hold them to account '‚Ñ¢]"
+3214,premise,premise,premise,none,implicit,implicit,implicit,defend_the_weak,"flowchart TD
+1---N1[Vital we continue to crack down on the organised gangs involved in immigration crime.]
+1(ELABORATION)---2
+2(JOINT)
+2---2_ltxt[They are shamefully exploiting people]
+2---2_rtxt[& putting lives in grave danger.]
+0(EVALUATION)---1
+0---M0[Excellent work by the @NCA_UK.]"
+3215,none,none,none,none,none,none,none,time_will_tell,"flowchart TD
+1---N1[The Immigration Bill I brought before the Parliament today is essential]
+1(ENABLEMENT)---2
+2(JOINT)
+2---2_ltxt[to end free movement, control our borders,]
+2---2_rtxt[and give full protection to Irish citizens in the UK.]
+0(BACKGROUND)---1
+0(BACKGROUND)---3
+3(MANNER-MEANS)
+3---3_ltxt[By voting against it]
+3---3_rtxt[Labour have shown - once again - they are firmly on the side of uncontrolled immigration]"
+3218,none,none,none,none,none,implicit,none,defend_the_weak,"flowchart TD
+2---N2[@hackneyabbott a few hours ago you said]
+2(ATTRIBUTION)---3
+3(ENABLEMENT)
+3---3_ltxt[you wouldn't oppose our Bill]
+3---3_rtxt[to end free movement.]
+1(CONTRAST)---2
+1---M1[Yet now you just did the exact opposite.]
+0(BACKGROUND)---1
+0(BACKGROUND)---4
+4(ELABORATION)
+4---4_ltxt[Those who thought you couldn't trust Labour's promise]
+4---4_rtxt[to control immigration have been proven right.]"
+3219,none,none,none,implicit,implicit,none,implicit,defend_the_weak,"flowchart TD
+0---N0[A National Crime Agency spokesman says]
+0(ATTRIBUTION)---1
+1(CAUSE)
+1---1_ltxt[a 33-year-old Iranian national and a 24-year-old British man have been arrested in Manchester]
+1---1_rtxt[on suspicion of arranging the illegal movement of migrants across the English Channel]"
+3224,none,none,none,none,implicit,none,implicit,time_will_tell,"flowchart TD
+0---N0[The biggest risk to our public services is Corbyn's plans for uncontrolled & unlimited immigration.]
+0(BACKGROUND)---1
+1---N1[The Conservatives will get Brexit done]
+1(JOINT)---2
+2---N2[& introduce an Australian-style points system]
+2(ENABLEMENT)---3
+3(JOINT)
+3---3_ltxt[so that we reduce immigration overall,]
+3---3_rtxt[while being open & flexible to highly skilled people.]"
+3227,none,none,none,implicit,none,implicit,none,defend_the_weak,"flowchart TD
+2(ELABORATION)
+2---2_ltxt[Yet more evidence that Britain is becoming more tolerant]
+2---2_rtxt[- People born since 1960s more positive to immigration -]
+1(SAME-UNIT)---2
+1---M1[Sits uneasily with 'Brexit = Xenophobia Explosion"" catastrophising -]
+0(CONTRAST)---1
+0---M0[But high diversity + high inequality reduces these positive shifts]"
+3231,none,conclusion,none,implicit,implicit,implicit,implicit,hidden_motives,"flowchart TD
+1(CONTRAST)
+1---1_ltxt[A year ago we committed to reducing the size of the immigration detention estate.]
+1---1_rtxt[Today it is around 40% smaller than in 2015, with fewer detainees in detention.]
+0(TEXTUALORGANIZATION)---1
+0---M0[Read more here:]"
+3232,conclusion,conclusion,conclusion,implicit,implicit,implicit,implicit,distrust_experts,"flowchart TD
+3(ENABLEMENT)
+3---3_ltxt[On Monday, we will launch a pilot programme]
+3---3_rtxt[to encourage refugee entrepreneurship programmes across the UK.]
+2(ENABLEMENT)---3
+2(ENABLEMENT)---4
+4(ENABLEMENT)
+4---4_ltxt[Join us in London]
+4---4_rtxt[to find out how your organisation can get involed.]
+1(JOINT)---2
+1---M1[Register here]
+0(ENABLEMENT)---1
+0(ENABLEMENT)---5
+5---N5[#CFErefugees]
+5(JOINT)---6
+6(JOINT)
+6---6_ltxt[#RefugeeEntrepreneur]
+6---6_rtxt[@ukhomeoffice]"
+3234,conclusion,conclusion,conclusion,implicit,none,implicit,none,distrust_experts,"flowchart TD
+2(ELABORATION)
+2---2_ltxt[""The UK will resettle thousands more refugees]
+2---2_rtxt[starting from next year, and for years to come.""]
+1(ELABORATION)---2
+1(ELABORATION)---3
+3(ELABORATION)
+3---3_ltxt[Home Secretary @sajidjavid has announced the details of the UK's new refugee resettlement scheme]
+3---3_rtxt[that will start in 2020.]
+0(BACKGROUND)---1
+0(BACKGROUND)---4
+4(JOINT)
+4---4_ltxt[#RefugeeWeek]
+4---4_rtxt[Read more:]"
+3237,premise,premise,premise,none,none,none,none,wicked_fairness,"flowchart TD
+3(ELABORATION)
+3---3_ltxt[The UK will resettle thousands more refugees]
+3---3_rtxt[starting from next year, and for years to come.]
+2(ELABORATION)---3
+2(ELABORATION)---4
+4(ELABORATION)
+4---4_ltxt[Home Secretary @sajidjavid has announced the details of the UK's new refugee resettlement scheme]
+4---4_rtxt[that will start in 2020.]
+1(BACKGROUND)---2
+1---M1[#RefugeeWeek]
+0(ATTRIBUTION)---1
+0---M0[Read more:]"
+3239,premise,premise,premise,implicit,implicit,implicit,implicit,distrust_experts,"flowchart TD
+2(CONTRAST)
+2---2_ltxt[I recognise that it won't reverse the damage that was caused,]
+2---2_rtxt[but I believe it will go some way to atone for the wrongs that people experienced.]
+1(TEXTUALORGANIZATION)---2
+1---M1[Home Secretary @sajidjavid wrote about the #Windrush Compensation Scheme for the @Independent.]
+0(TEXTUALORGANIZATION)---1
+0---M0[Read more:]"
+3242,none,conclusion,none,implicit,implicit,implicit,implicit,hidden_motives,"flowchart TD
+3(CAUSE)
+3---3_ltxt[Migrants to be ""allocated"" across the bloc -]
+3---3_rtxt[so forced migration?]
+2(JOINT)---3
+2---M2[Why is this not being covered by British media?]
+1(JOINT)---2
+1---M1[EU coalition of the willing agrees new migrant Àúsolidarity mechanism']
+0(TEXTUALORGANIZATION)---1
+0---M0[@EURACTIV]"
+3245,none,none,none,none,none,implicit,implicit,scapegoat,"flowchart TD
+0---N0[A total failure by the Home Office.]
+0(BACKGROUND)---1
+1(BACKGROUND)
+1---1_ltxt[The Tories have failed on immigration year after year.]
+1---1_rtxt[How much longer will we allow it to go on?]"
+3246,none,none,none,none,none,none,none,defend_the_weak,"flowchart TD
+1---N1[Labour's 2017 manifesto said]
+1(ATTRIBUTION)---2
+2(BACKGROUND)
+2---2_ltxt[Freedom of Movement will end]
+2---2_rtxt[when we leave the European Union.]
+0(BACKGROUND)---1
+0(BACKGROUND)---3
+3(JOINT)
+3---3_ltxt[They have lied to you on Brexit]
+3---3_rtxt[and now they have lied to you on immigration too.]"
+3251,conclusion,conclusion,conclusion,implicit,none,implicit,implicit,wicked_fairness,"flowchart TD
+2---N2[Our immigration system is not fit for purpose.]
+2(ELABORATION)---3
+3(BACKGROUND)
+3---3_ltxt[We have the remarkable situation where a British citizen has less rights to bring their spouse to the UK than an EU citizen.]
+3---3_rtxt[How is it fair that a Brit is treated as a second-class citizen in their own country?]
+1(TEXTUALORGANIZATION)---2
+1---M1[Watch and RT]
+0(TEXTUALORGANIZATION)---1
+0---M0[-]"
+3256,conclusion,conclusion,premise,implicit,none,none,none,liberty_freedom,"flowchart TD
+3(JOINT)
+3---3_ltxt[Memo: the ""far right"" @brexitparty_uk has candidates from the Left, centre, right...]
+3---3_rtxt[Muslims, Indians, immigrants, Jews, gays, blacks...]
+2(JOINT)---3
+2---M2[do we need to go on?]
+1(EXPLANATION)---2
+1---M1[Stop with this identity politics rubbish]
+0(JOINT)---1
+0(JOINT)---4
+4(ELABORATION)
+4---4_ltxt[and focus on the fact]
+4---4_rtxt[betraying Brexit has made us all come together ‚Ñ]"
+3257,conclusion,conclusion,conclusion,implicit,implicit,implicit,implicit,scapegoat,"flowchart TD
+1---N1[84% - No 16% -]
+1(BACKGROUND)---2
+2---N2[Yes]
+2(BACKGROUND)---3
+3(ATTRIBUTION)
+3---3_ltxt[House of Commons Library says]
+3---3_rtxt[66% of asylum-seekers in 2016 were bogus.]
+0(BACKGROUND)---1
+0(BACKGROUND)---4
+4(ENABLEMENT)
+4---4_ltxt[ Why do Labour and Plaid want to flood Wales with economic migrants]
+4---4_rtxt[to depress working-class wages?]"
+3259,conclusion,conclusion,conclusion,implicit,implicit,implicit,implicit,scapegoat,"flowchart TD
+1(BACKGROUND)
+1---1_ltxt[Never forget:]
+1---1_rtxt[Attacks on the working class come from those who travel by private jet, not migrant dinghy.]
+0(TEXTUALORGANIZATION)---1
+0---M0[- Zarah Sultana]"
+3260,none,none,none,implicit,none,implicit,implicit,distrust_experts,"flowchart TD
+0---N0[LET THAT SINK IN]
+0(TEXTUALORGANIZATION)---1
+1(CONTRAST)
+1---1_ltxt[Democrats voted to fine Americans for not buying health insurance,]
+1---1_rtxt[but want to give it to illegal immigrants for free.]"
+3261,conclusion,conclusion,conclusion,implicit,implicit,implicit,implicit,distrust_experts,"flowchart TD
+0---N0[TRUMP:]
+0(BACKGROUND)---1
+1(JOINT)
+1---1_ltxt[‘OUR COUNTRY HAS TURNED INTO A MIGRANT CAMP']
+1---1_rtxt['THIS IS AN INVASION']"
+3267,conclusion,conclusion,conclusion,implicit,none,none,none,liberty_freedom,"flowchart TD
+1---N1[WE WILL USE TAXPAYER MONEY TO SEND ILLEGAL IMMIGRANTS TO COLLEGE]
+1(JOINT)---2
+3---N3[FOR FREE PHIL MURPHY]
+3(JOINT)---4
+4(JOINT)
+4---4_ltxt[NEW JERSEY GOVERNOR]
+4---4_rtxt[MY WIFE AND I BOTH WORK FULL TIME]
+2(JOINT)---3
+2---M2[AND STILL CANNOT AFFORD TO SEND OUR OWN KIDS TO COLLEGE......]
+0(JOINT)---1
+0(JOINT)---5
+5(BACKGROUND)
+5---5_ltxt[WHAT'S WRONG WITH THIS PICTURE??]
+5---5_rtxt[#WALKAWAY]"
+3269,none,none,none,implicit,implicit,implicit,implicit,wicked_fairness,"flowchart TD
+0---N0[Mrs.]
+0(BACKGROUND)---1
+2---N2[Pelosi, this is our son, Pierce Corcoran.]
+2(JOINT)---3
+3---N3[He is dead.]
+3(JOINT)---4
+4(JOINT)
+4---4_ltxt[His death is real,]
+4---4_rtxt[it's not fabricated.]
+1(JOINT)---2
+1---M1[He died at the hands of an illegal immigrant...]"
+3270,conclusion,conclusion,conclusion,implicit,none,none,none,liberty_freedom,"flowchart TD
+1(JOINT)
+1---1_ltxt[When will our WEAK politicians get tough]
+1---1_rtxt[and stop the illegal immigration invasion?]
+0(EXPLANATION)---1
+0---M0[#ImmigrationReferendum]"
+3271,conclusion,conclusion,conclusion,implicit,implicit,implicit,implicit,wicked_fairness,"flowchart TD
+0---N0[In 2019]
+0(BACKGROUND)---1
+2---N2[Boris Johnson and Priti Patel promised to fix this problem]
+2(CONTRAST)---3
+3(EVALUATION)
+3---3_ltxt[yet it’s only got worse.]
+3---3_rtxt[NEVER TRUST A TORY!]
+1(BACKGROUND)---2
+1---M1[#VoteUKIP]"
+3272,none,conclusion,none,implicit,implicit,implicit,implicit,hidden_motives,"flowchart TD
+2(CONTRAST)
+2---2_ltxt[Before we ask what is fair to illegal immigrants,]
+2---2_rtxt[wemust ask what is fair to American families, students,99 taxpayers, job seekers.]
+1(TEXTUALORGANIZATION)---2
+1---M1[\]
+0(TEXTUALORGANIZATION)---1
+0---M0[resident Trump]"
+3276,none,none,none,implicit,none,implicit,none,wicked_fairness,"flowchart TD
+1(JOINT)
+1---1_ltxt[OBAMA ADMIN GIVES OBAMACARE BENEFITS TO ILLEGAL IMMIGRANTS, FAILS TO PROVIDE]
+1---1_rtxt[VETS NECESSARY CARE]
+0(JOINT)---1
+0---M0[LIKE IF YOU THINK THIS IS WRONG!]"
+3278,none,none,none,none,none,implicit,none,defend_the_weak,"flowchart TD
+2(BACKGROUND)
+2---2_ltxt[THOSE WHO ENTER THE COUNTRY ILLEGALLY, AND THOSE WHO EMPLOY THEM]
+2---2_rtxt[DISRESPECT THE RULE OF LAW.]
+1(JOINT)---2
+1---M1[THEY ARE SHOWING DISREGARD FOR THOSE WHO ARE FOLLOWING THE LAW.]
+0(TEXTUALORGANIZATION)---1
+0(TEXTUALORGANIZATION)---3
+5---N5[WE CANNOT ALLOW PEOPLE TO POUR INTO THE U.S.]
+5(ELABORATION)---6
+7---N7[UNDETECTED, UNDOCUMENTED, UNCHECKED,]
+7(JOINT)---8
+8(ELABORATION)
+8---8_ltxt[AND CIRCUMVENTING THE LINE OF PEOPLE]
+8---8_rtxt[WHO ARE WAITING TO LAWFULLY BECOME IMMIGRANTS]
+6(ELABORATION)---7
+6(ELABORATION)---9
+9(ATTRIBUTION)
+9---9_ltxt[THINK]
+9---9_rtxt[TRUMP SAID THAT?]
+4(TOPIC-COMMENT)---5
+4---M4[NOPE!]
+3(TEXTUALORGANIZATION)---4
+3---M3[THAT WAS BARACK OBAMA IN 2005]"
+3280,conclusion,conclusion,conclusion,implicit,none,implicit,implicit,defend_the_weak,"flowchart TD
+1---N1[IF OBAMA HAD:]
+1(ATTRIBUTION)---2
+6(JOINT)
+6---6_ltxt[- Paid off a porn star]
+6---6_rtxt[- Cheated on 3 wives]
+5(JOINT)---6
+5---M5[- Had kids by 3 women]
+4(JOINT)---5
+4---M4[- Married an immigrant]
+3(JOINT)---4
+3---M3[- Had a host of campaign staffers plead guilty to federal crimes]
+2(JOINT)---3
+2---M2[- Spent 1/3 of his time in office at resorts]
+0(EVALUATION)---1
+0---M0[REPUBLICANS WOULD HAVE TURNED THE WORLD UPSIDE DOWN]"
+3281,none,none,none,implicit,implicit,implicit,implicit,wicked_fairness,"flowchart TD
+1(CONTRAST)
+1---1_ltxt[Whilst I have a lot of sympathy for Abolish,]
+1---1_rtxt[unfortunately they only have 1 policy.]
+0(BACKGROUND)---1
+0(BACKGROUND)---2
+3---N3[We have no idea]
+3(ATTRIBUTION)---4
+4---N4[where they stand on the big issues of the day]
+4(ELABORATION)---5
+5---N5[(do they support BLM?]
+5(JOINT)---6
+6(JOINT)
+6---6_ltxt[Mass immigration?]
+6---6_rtxt[Wales being turned into a giant wind farm?).]
+2(JOINT)---3
+2(JOINT)---7
+7(CONDITION)
+7---7_ltxt[How will they vote]
+7---7_rtxt[if they are elected?]"
+3283,conclusion,conclusion,conclusion,implicit,none,implicit,none,liberty_freedom,"flowchart TD
+0(CONTRAST)
+0---0_ltxt[ONE OF THESE PRESIDENTS GAVE AMNESTY TO ILLEGAL IMMIGRANTS]
+0---0_rtxt[THE OTHER IS PRESIDENT OBAMA]"
+3287,none,none,none,none,implicit,implicit,implicit,defend_the_weak,"flowchart TD
+2(CONDITION)
+2---2_ltxt[If the Radical Left Democrats all of a sudden don't wantthe Illegal Migrants in their Sanctuary Cities (no more open arms),]
+2---2_rtxt[why should others be expected to take them into their communities?]
+1(JOINT)---2
+1(JOINT)---3
+3(JOINT)
+3---3_ltxt[Go home]
+3---3_rtxt[and come into our Country legally and through a system of Merit!]
+0(TEXTUALORGANIZATION)---1
+0---M0[@realDonald Trump]"
+3289,premise,premise,premise,implicit,implicit,implicit,implicit,defend_the_weak,"flowchart TD
+1---N1[What's your problem with people immigrating to America?]
+1(EXPLANATION)---2
+2(TEMPORAL)
+2---2_ltxt[It's not like there is a history of immigrantsflooding in, murdering thousands]
+2---2_rtxt[and then stealing all their land.]
+0(EVALUATION)---1
+0---M0[Oh wait...]"
+3291,none,none,none,none,none,implicit,none,hidden_motives,"flowchart TD
+0(BACKGROUND)
+0---0_ltxt[RIDDLE ME THIS!]
+0---0_rtxt[HOW DO IMMIGRANTS STRENGTHEN OUR COUNTRYBUT NOT THEIR OWN ?!?]"
+3294,premise,none,premise,implicit,implicit,implicit,implicit,wicked_fairness,"flowchart TD
+1---N1[We can't find homes for the 6000+ homeless veterans]
+1(CONTRAST)---2
+2(JOINT)
+2---2_ltxt[yet we can find them for thousands of illegal immigrants crossing the channel]
+2---2_rtxt[and for the 'isis bride' who said the Manchester bombing kids were 'just victims of war'!]
+0(EVALUATION)---1
+0---M0[Our government should be ashamed of themselves.]"
+3295,none,none,none,implicit,none,implicit,none,wicked_fairness,empty
+3298,none,none,none,implicit,implicit,implicit,implicit,wicked_fairness,"flowchart TD
+1(EVALUATION)
+1---1_ltxt[I sure hope everyone is paying attention.]
+1---1_rtxt[There is no good explanation for this!]
+0(EXPLANATION)---1
+0(EXPLANATION)---2
+4---N4[Judiciary Committee just offered an amendment]
+4(ELABORATION)---5
+5(BACKGROUND)
+5---5_ltxt[that requires ICE be notified]
+5---5_rtxt[when an illegal immigrant tries to purchase a firearm]
+3(ELABORATION)---4
+3---M3[Dems voted NO]
+2(JOINT)---3
+2(JOINT)---6
+7(ATTRIBUTION)
+7---7_ltxt[So the Dems just admitted]
+7---7_rtxt[they have no problem with people having guns.]
+6(CONDITION)---7
+6(CONDITION)---8
+8(ELABORATION)
+8---8_ltxt[As long as they are not American citizens]
+8---8_rtxt[that are working class]"
+3301,conclusion,conclusion,conclusion,implicit,implicit,implicit,implicit,wicked_fairness,"flowchart TD
+0---N0[Didn't believe that Jews and other groups were \real\ Germans.]
+0(BACKGROUND)---1
+4(ELABORATION)
+4---4_ltxt[Initially proposed mass deportations of those]
+4---4_rtxt[deemed undesirable.]
+3(JOINT)---4
+3---M3[Searched synagogues, businesses and birth records for possible deportees.]
+2(JOINT)---3
+2(JOINT)---5
+6(ELABORATION)
+6---6_ltxt[Mass deportations found to be umpractical-]
+6---6_rtxt[death camps used as an alternative.]
+5(JOINT)---6
+5(JOINT)---7
+7---N7[Doesn't believe that 14th Amendment citizens are \real\ Americans.]
+7(JOINT)---8
+8(JOINT)
+8---8_ltxt[Proposes mass deportations]
+8---8_rtxt[Proposes tracking down illegal immigrants throughemployers.]
+1(TOPIC-COMMENT)---2
+1(TOPIC-COMMENT)---9
+9(BACKGROUND)
+9---9_ltxt[When Trump realizes that mass deportations are impossible,]
+9---9_rtxt[what will his solution be?]"
